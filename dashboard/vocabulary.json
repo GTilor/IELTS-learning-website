@@ -1,0 +1,8688 @@
+{
+  "Uncategorized": [
+    {
+      "word": "hydro",
+      "definition": ""
+    },
+    {
+      "word": "水力的，水电的",
+      "definition": ""
+    },
+    {
+      "word": "hydroellctric",
+      "definition": ""
+    },
+    {
+      "word": "geothermal",
+      "definition": ""
+    },
+    {
+      "word": "地热的",
+      "definition": ""
+    },
+    {
+      "word": "stationary",
+      "definition": ""
+    },
+    {
+      "word": "静止的，固定的",
+      "definition": ""
+    },
+    {
+      "word": "sodium",
+      "definition": ""
+    },
+    {
+      "word": "钠",
+      "definition": ""
+    },
+    {
+      "word": "plugin",
+      "definition": ""
+    },
+    {
+      "word": "插件",
+      "definition": ""
+    },
+    {
+      "word": "外挂",
+      "definition": ""
+    },
+    {
+      "word": "mundane",
+      "definition": ""
+    },
+    {
+      "word": "世俗的，平凡的",
+      "definition": ""
+    },
+    {
+      "word": "Hostility",
+      "definition": ""
+    },
+    {
+      "word": "敌意",
+      "definition": ""
+    },
+    {
+      "word": "对抗",
+      "definition": ""
+    },
+    {
+      "word": "equivalent",
+      "definition": ""
+    },
+    {
+      "word": "等价物",
+      "definition": ""
+    },
+    {
+      "word": "entity",
+      "definition": ""
+    },
+    {
+      "word": "实体",
+      "definition": ""
+    },
+    {
+      "word": "split",
+      "definition": ""
+    },
+    {
+      "word": "分裂",
+      "definition": ""
+    },
+    {
+      "word": "拆分",
+      "definition": ""
+    },
+    {
+      "word": "smuggle",
+      "definition": ""
+    },
+    {
+      "word": "走私",
+      "definition": ""
+    },
+    {
+      "word": "deconstruct",
+      "definition": ""
+    },
+    {
+      "word": "拆解",
+      "definition": ""
+    },
+    {
+      "word": "decon  struct",
+      "definition": ""
+    },
+    {
+      "word": "substantiation",
+      "definition": ""
+    },
+    {
+      "word": "证实",
+      "definition": ""
+    },
+    {
+      "word": "实体化",
+      "definition": ""
+    },
+    {
+      "word": "fortune",
+      "definition": ""
+    },
+    {
+      "word": "财富",
+      "definition": ""
+    },
+    {
+      "word": "运气",
+      "definition": ""
+    },
+    {
+      "word": "命运",
+      "definition": ""
+    },
+    {
+      "word": "OEM",
+      "definition": ""
+    },
+    {
+      "word": "原始设备制造厂商",
+      "definition": ""
+    },
+    {
+      "word": "reconciliation",
+      "definition": ""
+    },
+    {
+      "word": "和解",
+      "definition": ""
+    },
+    {
+      "word": "调和",
+      "definition": ""
+    },
+    {
+      "word": "undue",
+      "definition": ""
+    },
+    {
+      "word": "过度的",
+      "definition": ""
+    },
+    {
+      "word": "不适当的",
+      "definition": ""
+    },
+    {
+      "word": "amendment",
+      "definition": ""
+    },
+    {
+      "word": "修正案",
+      "definition": ""
+    },
+    {
+      "word": "obligating",
+      "definition": ""
+    },
+    {
+      "word": "使富有义务",
+      "definition": ""
+    },
+    {
+      "word": "obligation",
+      "definition": ""
+    },
+    {
+      "word": "frustrate",
+      "definition": ""
+    },
+    {
+      "word": "使沮丧",
+      "definition": ""
+    },
+    {
+      "word": "frustrating",
+      "definition": ""
+    },
+    {
+      "word": "legislative",
+      "definition": ""
+    },
+    {
+      "word": "立法的",
+      "definition": ""
+    },
+    {
+      "word": "enact",
+      "definition": ""
+    },
+    {
+      "word": "建立",
+      "definition": ""
+    },
+    {
+      "word": "颁布",
+      "definition": ""
+    },
+    {
+      "word": "disproportionately",
+      "definition": ""
+    },
+    {
+      "word": "不成比例地",
+      "definition": ""
+    },
+    {
+      "word": "proportionate",
+      "definition": ""
+    },
+    {
+      "word": "formidable",
+      "definition": ""
+    },
+    {
+      "word": "可怕的，令人敬畏的",
+      "definition": ""
+    },
+    {
+      "word": "prioritize",
+      "definition": ""
+    },
+    {
+      "word": "按优先考虑",
+      "definition": ""
+    },
+    {
+      "word": "sustain",
+      "definition": ""
+    },
+    {
+      "word": "维持支撑",
+      "definition": ""
+    },
+    {
+      "word": "tenure",
+      "definition": ""
+    },
+    {
+      "word": "任期",
+      "definition": ""
+    },
+    {
+      "word": "终身教职",
+      "definition": ""
+    },
+    {
+      "word": "impetu",
+      "definition": ""
+    },
+    {
+      "word": "动力",
+      "definition": ""
+    },
+    {
+      "word": "evasively",
+      "definition": ""
+    },
+    {
+      "word": "推脱地",
+      "definition": ""
+    },
+    {
+      "word": "含糊地",
+      "definition": ""
+    },
+    {
+      "word": "reluctant",
+      "definition": ""
+    },
+    {
+      "word": "不情愿的",
+      "definition": ""
+    },
+    {
+      "word": "call off",
+      "definition": ""
+    },
+    {
+      "word": "取消",
+      "definition": ""
+    },
+    {
+      "word": "meditation",
+      "definition": ""
+    },
+    {
+      "word": "冥想",
+      "definition": ""
+    },
+    {
+      "word": "orphanage",
+      "definition": ""
+    },
+    {
+      "word": "孤儿院",
+      "definition": ""
+    },
+    {
+      "word": "orphan",
+      "definition": ""
+    },
+    {
+      "word": "captivity",
+      "definition": ""
+    },
+    {
+      "word": "囚禁",
+      "definition": ""
+    },
+    {
+      "word": "被关押状态",
+      "definition": ""
+    },
+    {
+      "word": "prisoner",
+      "definition": ""
+    },
+    {
+      "word": "囚犯",
+      "definition": ""
+    },
+    {
+      "word": "solitary",
+      "definition": ""
+    },
+    {
+      "word": "孤独的",
+      "definition": ""
+    },
+    {
+      "word": "confinement",
+      "definition": ""
+    },
+    {
+      "word": "监禁限制",
+      "definition": ""
+    },
+    {
+      "word": "involuntary",
+      "definition": ""
+    },
+    {
+      "word": "非自愿的",
+      "definition": ""
+    },
+    {
+      "word": "无意识的",
+      "definition": ""
+    },
+    {
+      "word": "volunteer",
+      "definition": ""
+    },
+    {
+      "word": "prominent",
+      "definition": ""
+    },
+    {
+      "word": "突出的，显著的",
+      "definition": ""
+    },
+    {
+      "word": "craft",
+      "definition": ""
+    },
+    {
+      "word": "手艺",
+      "definition": ""
+    },
+    {
+      "word": "categorise",
+      "definition": ""
+    },
+    {
+      "word": "分类",
+      "definition": ""
+    },
+    {
+      "word": "branch",
+      "definition": ""
+    },
+    {
+      "word": "分支",
+      "definition": ""
+    },
+    {
+      "word": "introvert",
+      "definition": ""
+    },
+    {
+      "word": "内向的人",
+      "definition": ""
+    },
+    {
+      "word": "religious",
+      "definition": ""
+    },
+    {
+      "word": "宗教的",
+      "definition": ""
+    },
+    {
+      "word": "虔诚的",
+      "definition": ""
+    },
+    {
+      "word": "religion",
+      "definition": ""
+    },
+    {
+      "word": "solitude",
+      "definition": ""
+    },
+    {
+      "word": "孤独",
+      "definition": ""
+    },
+    {
+      "word": "独处",
+      "definition": ""
+    },
+    {
+      "word": "distraction",
+      "definition": ""
+    },
+    {
+      "word": "分心",
+      "definition": ""
+    },
+    {
+      "word": "干扰",
+      "definition": ""
+    },
+    {
+      "word": "aesthetic",
+      "definition": ""
+    },
+    {
+      "word": "审美的",
+      "definition": ""
+    },
+    {
+      "word": "blurry",
+      "definition": ""
+    },
+    {
+      "word": "模糊的",
+      "definition": ""
+    },
+    {
+      "word": "maladaptive",
+      "definition": ""
+    },
+    {
+      "word": "适应不了的",
+      "definition": ""
+    },
+    {
+      "word": "cut off",
+      "definition": ""
+    },
+    {
+      "word": "取消",
+      "definition": ""
+    },
+    {
+      "word": "切断",
+      "definition": ""
+    },
+    {
+      "word": "dysfunction",
+      "definition": ""
+    },
+    {
+      "word": "功能障碍",
+      "definition": ""
+    },
+    {
+      "word": "irrational",
+      "definition": ""
+    },
+    {
+      "word": "不理性的",
+      "definition": ""
+    },
+    {
+      "word": "neglect",
+      "definition": ""
+    },
+    {
+      "word": "忽视",
+      "definition": ""
+    },
+    {
+      "word": "sharpen",
+      "definition": ""
+    },
+    {
+      "word": "削尖",
+      "definition": ""
+    },
+    {
+      "word": "endeavor",
+      "definition": ""
+    },
+    {
+      "word": "努力",
+      "definition": ""
+    },
+    {
+      "word": "尝试",
+      "definition": ""
+    },
+    {
+      "word": "fleeting",
+      "definition": ""
+    },
+    {
+      "word": "转瞬即逝的",
+      "definition": ""
+    },
+    {
+      "word": "prosperity",
+      "definition": ""
+    },
+    {
+      "word": "繁荣",
+      "definition": ""
+    },
+    {
+      "word": "collaborative",
+      "definition": ""
+    },
+    {
+      "word": "协同的",
+      "definition": ""
+    },
+    {
+      "word": "detrimental",
+      "definition": ""
+    },
+    {
+      "word": "有害的",
+      "definition": ""
+    },
+    {
+      "word": "therapeutic",
+      "definition": ""
+    },
+    {
+      "word": "治疗的",
+      "definition": ""
+    },
+    {
+      "word": "有疗效的",
+      "definition": ""
+    },
+    {
+      "word": "interpretation",
+      "definition": ""
+    },
+    {
+      "word": "解释",
+      "definition": ""
+    },
+    {
+      "word": "broadest",
+      "definition": ""
+    },
+    {
+      "word": "广泛的",
+      "definition": ""
+    },
+    {
+      "word": "asset",
+      "definition": ""
+    },
+    {
+      "word": "财产",
+      "definition": ""
+    },
+    {
+      "word": "as far as it goes",
+      "definition": ""
+    },
+    {
+      "word": "在它能达到的氛围内",
+      "definition": ""
+    },
+    {
+      "word": "plague",
+      "definition": ""
+    },
+    {
+      "word": "瘟疫",
+      "definition": ""
+    },
+    {
+      "word": "灾祸",
+      "definition": ""
+    },
+    {
+      "word": "provision",
+      "definition": ""
+    },
+    {
+      "word": "条款",
+      "definition": ""
+    },
+    {
+      "word": "规定",
+      "definition": ""
+    },
+    {
+      "word": "供应",
+      "definition": ""
+    },
+    {
+      "word": "preventative",
+      "definition": ""
+    },
+    {
+      "word": "预防性的",
+      "definition": ""
+    },
+    {
+      "word": "prevent",
+      "definition": ""
+    },
+    {
+      "word": "facilitate",
+      "definition": ""
+    },
+    {
+      "word": "促进",
+      "definition": ""
+    },
+    {
+      "word": "使便利",
+      "definition": ""
+    },
+    {
+      "word": "vacuum",
+      "definition": ""
+    },
+    {
+      "word": "空白",
+      "definition": ""
+    },
+    {
+      "word": "真空",
+      "definition": ""
+    },
+    {
+      "word": "blasted",
+      "definition": ""
+    },
+    {
+      "word": "枯萎的",
+      "definition": ""
+    },
+    {
+      "word": "rigor",
+      "definition": ""
+    },
+    {
+      "word": "严谨",
+      "definition": ""
+    },
+    {
+      "word": "stem",
+      "definition": ""
+    },
+    {
+      "word": "起源于",
+      "definition": ""
+    },
+    {
+      "word": "茎干",
+      "definition": ""
+    },
+    {
+      "word": "mossy",
+      "definition": ""
+    },
+    {
+      "word": "涨满苔藓的",
+      "definition": ""
+    },
+    {
+      "word": "damp",
+      "definition": ""
+    },
+    {
+      "word": "潮湿的",
+      "definition": ""
+    },
+    {
+      "word": "strategy",
+      "definition": ""
+    },
+    {
+      "word": "策略",
+      "definition": ""
+    },
+    {
+      "word": "战略",
+      "definition": ""
+    },
+    {
+      "word": "emulate",
+      "definition": ""
+    },
+    {
+      "word": "仿真",
+      "definition": ""
+    },
+    {
+      "word": "unanimously",
+      "definition": ""
+    },
+    {
+      "word": "全体一致地",
+      "definition": ""
+    },
+    {
+      "word": "probe",
+      "definition": ""
+    },
+    {
+      "word": "探测",
+      "definition": ""
+    },
+    {
+      "word": "探针",
+      "definition": ""
+    },
+    {
+      "word": "assertion",
+      "definition": ""
+    },
+    {
+      "word": "断言",
+      "definition": ""
+    },
+    {
+      "word": "主张",
+      "definition": ""
+    },
+    {
+      "word": "livestock",
+      "definition": ""
+    },
+    {
+      "word": "家畜",
+      "definition": ""
+    },
+    {
+      "word": "stagger",
+      "definition": ""
+    },
+    {
+      "word": "蹒跚",
+      "definition": ""
+    },
+    {
+      "word": "startling",
+      "definition": ""
+    },
+    {
+      "word": "令人震惊的",
+      "definition": ""
+    },
+    {
+      "word": "distort",
+      "definition": ""
+    },
+    {
+      "word": "扭曲",
+      "definition": ""
+    },
+    {
+      "word": "失真",
+      "definition": ""
+    },
+    {
+      "word": "unring",
+      "definition": ""
+    },
+    {
+      "word": "撤回",
+      "definition": ""
+    },
+    {
+      "word": "消除",
+      "definition": ""
+    },
+    {
+      "word": "compel",
+      "definition": ""
+    },
+    {
+      "word": "强迫",
+      "definition": ""
+    },
+    {
+      "word": "迫使",
+      "definition": ""
+    },
+    {
+      "word": "deficit",
+      "definition": ""
+    },
+    {
+      "word": "赤字",
+      "definition": ""
+    },
+    {
+      "word": "不足",
+      "definition": ""
+    },
+    {
+      "word": "indigestible",
+      "definition": ""
+    },
+    {
+      "word": "难以理解的",
+      "definition": ""
+    },
+    {
+      "word": "digest",
+      "definition": ""
+    },
+    {
+      "word": "ruminant",
+      "definition": ""
+    },
+    {
+      "word": "反诌的",
+      "definition": ""
+    },
+    {
+      "word": "沉思的",
+      "definition": ""
+    },
+    {
+      "word": "ruthlessly",
+      "definition": ""
+    },
+    {
+      "word": "残忍地",
+      "definition": ""
+    },
+    {
+      "word": "无情地",
+      "definition": ""
+    },
+    {
+      "word": "ruth",
+      "definition": ""
+    },
+    {
+      "word": "怜悯",
+      "definition": ""
+    },
+    {
+      "word": "swiftly",
+      "definition": ""
+    },
+    {
+      "word": "迅速地",
+      "definition": ""
+    },
+    {
+      "word": "snob",
+      "definition": ""
+    },
+    {
+      "word": "小人",
+      "definition": ""
+    },
+    {
+      "word": "rigid",
+      "definition": ""
+    },
+    {
+      "word": "僵硬的",
+      "definition": ""
+    },
+    {
+      "word": "四班的",
+      "definition": ""
+    },
+    {
+      "word": "ancestry",
+      "definition": ""
+    },
+    {
+      "word": "祖先",
+      "definition": ""
+    },
+    {
+      "word": "ancestor",
+      "definition": ""
+    },
+    {
+      "word": "royal",
+      "definition": ""
+    },
+    {
+      "word": "高贵的",
+      "definition": ""
+    },
+    {
+      "word": "vanity",
+      "definition": ""
+    },
+    {
+      "word": "虚荣心",
+      "definition": ""
+    },
+    {
+      "word": "brutally",
+      "definition": ""
+    },
+    {
+      "word": "",
+      "definition": "无情地"
+    },
+    {
+      "word": "veil",
+      "definition": ""
+    },
+    {
+      "word": "面纱",
+      "definition": ""
+    },
+    {
+      "word": "遮蔽物",
+      "definition": ""
+    },
+    {
+      "word": "convergence",
+      "definition": ""
+    },
+    {
+      "word": "趋同",
+      "definition": ""
+    },
+    {
+      "word": "收敛",
+      "definition": ""
+    },
+    {
+      "word": "converge",
+      "definition": ""
+    },
+    {
+      "word": "yawn",
+      "definition": ""
+    },
+    {
+      "word": "豁开",
+      "definition": ""
+    },
+    {
+      "word": "裂开",
+      "definition": ""
+    },
+    {
+      "word": "stagnation",
+      "definition": ""
+    },
+    {
+      "word": "停滞",
+      "definition": ""
+    },
+    {
+      "word": "似水",
+      "definition": ""
+    },
+    {
+      "word": "stagnate",
+      "definition": ""
+    },
+    {
+      "word": "put down",
+      "definition": ""
+    },
+    {
+      "word": "放下",
+      "definition": ""
+    },
+    {
+      "word": "镇压",
+      "definition": ""
+    },
+    {
+      "word": "counterintuitive",
+      "definition": ""
+    },
+    {
+      "word": "违反直觉的",
+      "definition": ""
+    },
+    {
+      "word": "intuitive",
+      "definition": ""
+    },
+    {
+      "word": "monitor",
+      "definition": ""
+    },
+    {
+      "word": "监视",
+      "definition": ""
+    },
+    {
+      "word": "motherhood",
+      "definition": ""
+    },
+    {
+      "word": "母性",
+      "definition": ""
+    },
+    {
+      "word": "母亲身份",
+      "definition": ""
+    },
+    {
+      "word": "take on",
+      "definition": ""
+    },
+    {
+      "word": "承担",
+      "definition": ""
+    },
+    {
+      "word": "呈现",
+      "definition": ""
+    },
+    {
+      "word": "parity",
+      "definition": ""
+    },
+    {
+      "word": "同等",
+      "definition": ""
+    },
+    {
+      "word": "平等",
+      "definition": ""
+    },
+    {
+      "word": "stall",
+      "definition": ""
+    },
+    {
+      "word": "停滞",
+      "definition": ""
+    },
+    {
+      "word": "抛锚",
+      "definition": ""
+    },
+    {
+      "word": "erasure",
+      "definition": ""
+    },
+    {
+      "word": "擦除",
+      "definition": ""
+    },
+    {
+      "word": "消除",
+      "definition": ""
+    },
+    {
+      "word": "erase",
+      "definition": ""
+    },
+    {
+      "word": "brink",
+      "definition": ""
+    },
+    {
+      "word": "边缘",
+      "definition": ""
+    },
+    {
+      "word": "extremism",
+      "definition": ""
+    },
+    {
+      "word": "极端主义",
+      "definition": ""
+    },
+    {
+      "word": "extrem",
+      "definition": ""
+    },
+    {
+      "word": "sovereign",
+      "definition": ""
+    },
+    {
+      "word": "主权",
+      "definition": ""
+    },
+    {
+      "word": "the invasion of",
+      "definition": ""
+    },
+    {
+      "word": "woke",
+      "definition": ""
+    },
+    {
+      "word": "觉醒",
+      "definition": ""
+    },
+    {
+      "word": "lunacy",
+      "definition": ""
+    },
+    {
+      "word": "疯狂",
+      "definition": ""
+    },
+    {
+      "word": "unleash",
+      "definition": ""
+    },
+    {
+      "word": "释放",
+      "definition": ""
+    },
+    {
+      "word": "tariffs",
+      "definition": ""
+    },
+    {
+      "word": "关税",
+      "definition": ""
+    },
+    {
+      "word": "defense spending",
+      "definition": ""
+    },
+    {
+      "word": "国防开支",
+      "definition": ""
+    },
+    {
+      "word": "obliterate",
+      "definition": ""
+    },
+    {
+      "word": "消灭",
+      "definition": ""
+    },
+    {
+      "word": "cartel",
+      "definition": ""
+    },
+    {
+      "word": "savage",
+      "definition": ""
+    },
+    {
+      "word": "gang",
+      "definition": ""
+    },
+    {
+      "word": "炮，枪",
+      "definition": ""
+    },
+    {
+      "word": "stride",
+      "definition": ""
+    },
+    {
+      "word": "than ever before",
+      "definition": ""
+    },
+    {
+      "word": "astray",
+      "definition": ""
+    },
+    {
+      "word": "迷路",
+      "definition": ""
+    },
+    {
+      "word": "correction",
+      "definition": ""
+    },
+    {
+      "word": "修正，",
+      "definition": ""
+    },
+    {
+      "word": "coherent",
+      "definition": ""
+    },
+    {
+      "word": "连贯的",
+      "definition": ""
+    },
+    {
+      "word": "laudry",
+      "definition": ""
+    },
+    {
+      "word": "vague",
+      "definition": ""
+    },
+    {
+      "word": "platitude",
+      "definition": ""
+    },
+    {
+      "word": "simultaneously",
+      "definition": ""
+    },
+    {
+      "word": "hollow",
+      "definition": ""
+    },
+    {
+      "word": "preeminence",
+      "definition": ""
+    },
+    {
+      "word": "offload",
+      "definition": ""
+    },
+    {
+      "word": "peripheral",
+      "definition": ""
+    },
+    {
+      "word": "explicitly",
+      "definition": ""
+    },
+    {
+      "word": "sequential",
+      "definition": ""
+    },
+    {
+      "word": "第二章节",
+      "definition": ""
+    },
+    {
+      "word": "arable",
+      "definition": ""
+    },
+    {
+      "word": "适宜耕种的",
+      "definition": ""
+    },
+    {
+      "word": "cultivable",
+      "definition": ""
+    },
+    {
+      "word": "spade",
+      "definition": ""
+    },
+    {
+      "word": "铲子",
+      "definition": ""
+    },
+    {
+      "word": "rake",
+      "definition": ""
+    },
+    {
+      "word": "耙子",
+      "definition": ""
+    },
+    {
+      "word": "vase",
+      "definition": ""
+    },
+    {
+      "word": "花瓶",
+      "definition": ""
+    },
+    {
+      "word": "fungus",
+      "definition": ""
+    },
+    {
+      "word": "真菌",
+      "definition": ""
+    },
+    {
+      "word": "mould",
+      "definition": ""
+    },
+    {
+      "word": "霉菌",
+      "definition": ""
+    },
+    {
+      "word": "mould is funguas",
+      "definition": ""
+    },
+    {
+      "word": "pollen",
+      "definition": ""
+    },
+    {
+      "word": "花粉，给授粉",
+      "definition": ""
+    },
+    {
+      "word": "germinate",
+      "definition": ""
+    },
+    {
+      "word": "萌芽，成长",
+      "definition": ""
+    },
+    {
+      "word": "burgeon",
+      "definition": ""
+    },
+    {
+      "word": "急速成长，嫩芽",
+      "definition": ""
+    },
+    {
+      "word": "to develop or grow quickly",
+      "definition": ""
+    },
+    {
+      "word": "aromatic",
+      "definition": ""
+    },
+    {
+      "word": "芳香的",
+      "definition": ""
+    },
+    {
+      "word": "have a pleasant smell",
+      "definition": ""
+    },
+    {
+      "word": "wither",
+      "definition": ""
+    },
+    {
+      "word": "使枯萎",
+      "definition": ""
+    },
+    {
+      "word": "stale",
+      "definition": ""
+    },
+    {
+      "word": "不新鲜的，没有新意的",
+      "definition": ""
+    },
+    {
+      "word": "jungle",
+      "definition": ""
+    },
+    {
+      "word": "丛林，密林",
+      "definition": ""
+    },
+    {
+      "word": "plantation",
+      "definition": ""
+    },
+    {
+      "word": "种植园",
+      "definition": ""
+    },
+    {
+      "word": "timber",
+      "definition": ""
+    },
+    {
+      "word": "木材",
+      "definition": ""
+    },
+    {
+      "word": "木料",
+      "definition": ""
+    },
+    {
+      "word": "charcoal",
+      "definition": ""
+    },
+    {
+      "word": "木炭",
+      "definition": ""
+    },
+    {
+      "word": "log",
+      "definition": ""
+    },
+    {
+      "word": "原木，日志",
+      "definition": ""
+    },
+    {
+      "word": "forestry",
+      "definition": ""
+    },
+    {
+      "word": "林学，林业",
+      "definition": ""
+    },
+    {
+      "word": "bough",
+      "definition": ""
+    },
+    {
+      "word": "大树枝",
+      "definition": ""
+    },
+    {
+      "word": "bau",
+      "definition": ""
+    },
+    {
+      "word": "hay",
+      "definition": ""
+    },
+    {
+      "word": "干草",
+      "definition": ""
+    },
+    {
+      "word": "straw",
+      "definition": ""
+    },
+    {
+      "word": "稻秆，稻草，吸管",
+      "definition": ""
+    },
+    {
+      "word": "reed",
+      "definition": ""
+    },
+    {
+      "word": "芦苇",
+      "definition": ""
+    },
+    {
+      "word": "thorn",
+      "definition": ""
+    },
+    {
+      "word": "刺，荆棘",
+      "definition": ""
+    },
+    {
+      "word": "throat",
+      "definition": ""
+    },
+    {
+      "word": "喉咙",
+      "definition": ""
+    },
+    {
+      "word": "olive",
+      "definition": ""
+    },
+    {
+      "word": "橄榄",
+      "definition": ""
+    },
+    {
+      "word": "meadow",
+      "definition": ""
+    },
+    {
+      "word": "草地，牧场",
+      "definition": ""
+    },
+    {
+      "word": "lawn",
+      "definition": ""
+    },
+    {
+      "word": "草坪，草地",
+      "definition": ""
+    },
+    {
+      "word": "pine",
+      "definition": ""
+    },
+    {
+      "word": "松木，松树",
+      "definition": ""
+    },
+    {
+      "word": "vine",
+      "definition": ""
+    },
+    {
+      "word": "葡萄藤",
+      "definition": ""
+    },
+    {
+      "word": "violet",
+      "definition": ""
+    },
+    {
+      "word": "堇菜",
+      "definition": ""
+    },
+    {
+      "word": "tulip",
+      "definition": ""
+    },
+    {
+      "word": "郁金花",
+      "definition": ""
+    },
+    {
+      "word": "mint",
+      "definition": ""
+    },
+    {
+      "word": "薄荷，印钞厂",
+      "definition": ""
+    },
+    {
+      "word": "reef",
+      "definition": ""
+    },
+    {
+      "word": "暗礁",
+      "definition": ""
+    },
+    {
+      "word": "rear",
+      "definition": ""
+    },
+    {
+      "word": "背部，培养",
+      "definition": ""
+    },
+    {
+      "word": "alga",
+      "definition": ""
+    },
+    {
+      "word": "海藻，藻",
+      "definition": ""
+    },
+    {
+      "word": "catalyse",
+      "definition": ""
+    },
+    {
+      "word": "催化",
+      "definition": ""
+    },
+    {
+      "word": "enzyme",
+      "definition": ""
+    },
+    {
+      "word": "酶",
+      "definition": ""
+    },
+    {
+      "word": "uptake",
+      "definition": ""
+    },
+    {
+      "word": "摄取，领会",
+      "definition": ""
+    },
+    {
+      "word": "nutrient",
+      "definition": ""
+    },
+    {
+      "word": "营养物质",
+      "definition": ""
+    },
+    {
+      "word": "bush fire",
+      "definition": ""
+    },
+    {
+      "word": "林区大火",
+      "definition": ""
+    },
+    {
+      "word": "extinguish",
+      "definition": ""
+    },
+    {
+      "word": "使扑灭",
+      "definition": ""
+    },
+    {
+      "word": "demolish",
+      "definition": ""
+    },
+    {
+      "word": "拆除，毁坏，摧毁",
+      "definition": ""
+    },
+    {
+      "word": "extinct",
+      "definition": ""
+    },
+    {
+      "word": "灭绝的",
+      "definition": ""
+    },
+    {
+      "word": "optimal",
+      "definition": ""
+    },
+    {
+      "word": "最佳的，最理想的",
+      "definition": ""
+    },
+    {
+      "word": "第三章",
+      "definition": ""
+    },
+    {
+      "word": "eagle",
+      "definition": ""
+    },
+    {
+      "word": "雕",
+      "definition": ""
+    },
+    {
+      "word": "penguin",
+      "definition": ""
+    },
+    {
+      "word": "企鹅",
+      "definition": ""
+    },
+    {
+      "word": "mammal",
+      "definition": ""
+    },
+    {
+      "word": "哺乳动物",
+      "definition": ""
+    },
+    {
+      "word": "turtle",
+      "definition": ""
+    },
+    {
+      "word": "海龟",
+      "definition": ""
+    },
+    {
+      "word": "whale",
+      "definition": ""
+    },
+    {
+      "word": "鲸鱼",
+      "definition": ""
+    },
+    {
+      "word": "biologst",
+      "definition": ""
+    },
+    {
+      "word": "生物学家",
+      "definition": ""
+    },
+    {
+      "word": "biology",
+      "definition": ""
+    },
+    {
+      "word": "，",
+      "definition": ""
+    },
+    {
+      "word": "botany",
+      "definition": ""
+    },
+    {
+      "word": "，",
+      "definition": ""
+    },
+    {
+      "word": "zoology",
+      "definition": ""
+    },
+    {
+      "word": "，",
+      "definition": ""
+    },
+    {
+      "word": "ecologist",
+      "definition": ""
+    },
+    {
+      "word": "primate",
+      "definition": ""
+    },
+    {
+      "word": "灵长类动物",
+      "definition": ""
+    },
+    {
+      "word": "vertebrate",
+      "definition": ""
+    },
+    {
+      "word": "脊椎动物",
+      "definition": ""
+    },
+    {
+      "word": "reptile",
+      "definition": ""
+    },
+    {
+      "word": "爬行动物",
+      "definition": ""
+    },
+    {
+      "word": "amphibian",
+      "definition": ""
+    },
+    {
+      "word": "两栖动物的",
+      "definition": ""
+    },
+    {
+      "word": "carnivore",
+      "definition": ""
+    },
+    {
+      "word": "食肉动物",
+      "definition": ""
+    },
+    {
+      "word": "herbivore",
+      "definition": ""
+    },
+    {
+      "word": "食草动物",
+      "definition": ""
+    },
+    {
+      "word": "fauna",
+      "definition": ""
+    },
+    {
+      "word": "动物群",
+      "definition": ""
+    },
+    {
+      "word": "flora",
+      "definition": ""
+    },
+    {
+      "word": "植物群",
+      "definition": ""
+    },
+    {
+      "word": "flock",
+      "definition": ""
+    },
+    {
+      "word": "群",
+      "definition": ""
+    },
+    {
+      "word": "herd",
+      "definition": ""
+    },
+    {
+      "word": "兽群，畜群",
+      "definition": ""
+    },
+    {
+      "word": "throng",
+      "definition": ""
+    },
+    {
+      "word": "人群",
+      "definition": ""
+    },
+    {
+      "word": "群集",
+      "definition": ""
+    },
+    {
+      "word": "brute",
+      "definition": ""
+    },
+    {
+      "word": "残暴的",
+      "definition": ""
+    },
+    {
+      "word": "祖先",
+      "definition": ""
+    },
+    {
+      "word": "decend",
+      "definition": ""
+    },
+    {
+      "word": "下降",
+      "definition": ""
+    },
+    {
+      "word": "decendant",
+      "definition": ""
+    },
+    {
+      "word": "后裔",
+      "definition": ""
+    },
+    {
+      "word": "后代",
+      "definition": ""
+    },
+    {
+      "word": "下降的",
+      "definition": ""
+    },
+    {
+      "word": "interbreed",
+      "definition": ""
+    },
+    {
+      "word": "杂交",
+      "definition": ""
+    },
+    {
+      "word": "hybridise",
+      "definition": ""
+    },
+    {
+      "word": "使杂交",
+      "definition": ""
+    },
+    {
+      "word": "proliferate",
+      "definition": ""
+    },
+    {
+      "word": "剧增",
+      "definition": ""
+    },
+    {
+      "word": "sterility",
+      "definition": ""
+    },
+    {
+      "word": "不生育",
+      "definition": ""
+    },
+    {
+      "word": "courtship",
+      "definition": ""
+    },
+    {
+      "word": "配偶",
+      "definition": ""
+    },
+    {
+      "word": "mate",
+      "definition": ""
+    },
+    {
+      "word": "brood",
+      "definition": ""
+    },
+    {
+      "word": "孵蛋",
+      "definition": ""
+    },
+    {
+      "word": "claw",
+      "definition": ""
+    },
+    {
+      "word": "爪",
+      "definition": ""
+    },
+    {
+      "word": "钳",
+      "definition": ""
+    },
+    {
+      "word": "beak",
+      "definition": ""
+    },
+    {
+      "word": "鸟嘴",
+      "definition": ""
+    },
+    {
+      "word": "fin",
+      "definition": ""
+    },
+    {
+      "word": "鱼鲭",
+      "definition": ""
+    },
+    {
+      "word": "plume",
+      "definition": ""
+    },
+    {
+      "word": "羽毛",
+      "definition": ""
+    },
+    {
+      "word": "bristle",
+      "definition": ""
+    },
+    {
+      "word": "worm",
+      "definition": ""
+    },
+    {
+      "word": "蠕虫",
+      "definition": ""
+    },
+    {
+      "word": "pest",
+      "definition": ""
+    },
+    {
+      "word": "害虫",
+      "definition": ""
+    },
+    {
+      "word": "parasite",
+      "definition": ""
+    },
+    {
+      "word": "寄生虫",
+      "definition": ""
+    },
+    {
+      "word": "mosquito",
+      "definition": ""
+    },
+    {
+      "word": "蚊子",
+      "definition": ""
+    },
+    {
+      "word": "tortoise",
+      "definition": ""
+    },
+    {
+      "word": "鬼",
+      "definition": ""
+    },
+    {
+      "word": "camel",
+      "definition": ""
+    },
+    {
+      "word": "骆驼",
+      "definition": ""
+    },
+    {
+      "word": "fox",
+      "definition": ""
+    },
+    {
+      "word": "狐狸",
+      "definition": ""
+    },
+    {
+      "word": "狡诈的人",
+      "definition": ""
+    },
+    {
+      "word": "calf",
+      "definition": ""
+    },
+    {
+      "word": "幼兽",
+      "definition": ""
+    },
+    {
+      "word": "pup",
+      "definition": ""
+    },
+    {
+      "word": "小动物",
+      "definition": ""
+    },
+    {
+      "word": "ox bull",
+      "definition": ""
+    },
+    {
+      "word": "公牛",
+      "definition": ""
+    },
+    {
+      "word": "buffalo",
+      "definition": ""
+    },
+    {
+      "word": "水牛",
+      "definition": ""
+    },
+    {
+      "word": "zebra",
+      "definition": ""
+    },
+    {
+      "word": "斑马",
+      "definition": ""
+    },
+    {
+      "word": "donkey",
+      "definition": ""
+    },
+    {
+      "word": "驴",
+      "definition": ""
+    },
+    {
+      "word": "saddle",
+      "definition": ""
+    },
+    {
+      "word": "马鞍",
+      "definition": ""
+    },
+    {
+      "word": "harness",
+      "definition": ""
+    },
+    {
+      "word": "马具",
+      "definition": ""
+    },
+    {
+      "word": "falcon",
+      "definition": ""
+    },
+    {
+      "word": "crow",
+      "definition": ""
+    },
+    {
+      "word": "乌鸦",
+      "definition": ""
+    },
+    {
+      "word": "swan",
+      "definition": ""
+    },
+    {
+      "word": "天鹅",
+      "definition": ""
+    },
+    {
+      "word": "cage",
+      "definition": ""
+    },
+    {
+      "word": "笼子",
+      "definition": ""
+    },
+    {
+      "word": "barn",
+      "definition": ""
+    },
+    {
+      "word": "谷仓，牲口棚",
+      "definition": ""
+    },
+    {
+      "word": "hedge",
+      "definition": ""
+    },
+    {
+      "word": "篱笆",
+      "definition": ""
+    },
+    {
+      "word": "barrier",
+      "definition": ""
+    },
+    {
+      "word": "障碍物",
+      "definition": ""
+    },
+    {
+      "word": "屏障",
+      "definition": ""
+    },
+    {
+      "word": "anatomy",
+      "definition": ""
+    },
+    {
+      "word": "解岥学",
+      "definition": ""
+    },
+    {
+      "word": "germ",
+      "definition": ""
+    },
+    {
+      "word": "微生物，细菌",
+      "definition": ""
+    },
+    {
+      "word": "microbe",
+      "definition": ""
+    },
+    {
+      "word": "微生物",
+      "definition": ""
+    },
+    {
+      "word": "metabolism",
+      "definition": ""
+    },
+    {
+      "word": "新陈代谢",
+      "definition": ""
+    },
+    {
+      "word": "secrete",
+      "definition": ""
+    },
+    {
+      "word": "分泌",
+      "definition": ""
+    },
+    {
+      "word": "excrete",
+      "definition": ""
+    },
+    {
+      "word": "排泄",
+      "definition": ""
+    },
+    {
+      "word": "分泌",
+      "definition": ""
+    },
+    {
+      "word": "devour",
+      "definition": ""
+    },
+    {
+      "word": "吞食",
+      "definition": ""
+    },
+    {
+      "word": "直觉的",
+      "definition": ""
+    },
+    {
+      "word": "instinct",
+      "definition": ""
+    },
+    {
+      "word": "optical",
+      "definition": ""
+    },
+    {
+      "word": "视觉的",
+      "definition": ""
+    },
+    {
+      "word": "acoustic",
+      "definition": ""
+    },
+    {
+      "word": "听觉的，声音的",
+      "definition": ""
+    },
+    {
+      "word": "nocturnal",
+      "definition": ""
+    },
+    {
+      "word": "夜间发生的，夜间活动的",
+      "definition": ""
+    },
+    {
+      "word": "dormant",
+      "definition": ""
+    },
+    {
+      "word": "冬眠的，休眠的",
+      "definition": ""
+    },
+    {
+      "word": "hibernation",
+      "definition": ""
+    },
+    {
+      "word": "alternate",
+      "definition": ""
+    },
+    {
+      "word": "交替，轮流",
+      "definition": ""
+    },
+    {
+      "word": "prey",
+      "definition": ""
+    },
+    {
+      "word": "捕食，",
+      "definition": ""
+    },
+    {
+      "word": "captive",
+      "definition": ""
+    },
+    {
+      "word": "俘虏，被关押的",
+      "definition": ""
+    },
+    {
+      "word": "tame",
+      "definition": ""
+    },
+    {
+      "word": "驯服，制服",
+      "definition": ""
+    },
+    {
+      "word": "shepherd",
+      "definition": ""
+    },
+    {
+      "word": "牧羊人",
+      "definition": ""
+    }
+  ],
+  "Chapter 4": [
+    {
+      "word": "spacecraft",
+      "definition": ""
+    },
+    {
+      "word": "宇宙飞船",
+      "definition": ""
+    },
+    {
+      "word": "talascope",
+      "definition": ""
+    },
+    {
+      "word": "望远镜",
+      "definition": ""
+    },
+    {
+      "word": "cosmos",
+      "definition": ""
+    },
+    {
+      "word": "宇宙，",
+      "definition": ""
+    },
+    {
+      "word": "intersteller",
+      "definition": ""
+    },
+    {
+      "word": "星际的",
+      "definition": ""
+    },
+    {
+      "word": "terrestrail",
+      "definition": ""
+    },
+    {
+      "word": "地球的，陆地的",
+      "definition": ""
+    },
+    {
+      "word": "celestial",
+      "definition": ""
+    },
+    {
+      "word": "天上的",
+      "definition": ""
+    },
+    {
+      "word": "astronomy",
+      "definition": ""
+    },
+    {
+      "word": "天文的",
+      "definition": ""
+    },
+    {
+      "word": "astrology",
+      "definition": ""
+    },
+    {
+      "word": "占星学，占星术",
+      "definition": ""
+    },
+    {
+      "word": "astronaut",
+      "definition": ""
+    },
+    {
+      "word": "宇航员",
+      "definition": ""
+    },
+    {
+      "word": "comet",
+      "definition": ""
+    },
+    {
+      "word": "彗星",
+      "definition": ""
+    },
+    {
+      "word": "meteorite",
+      "definition": ""
+    },
+    {
+      "word": "陨石",
+      "definition": ""
+    },
+    {
+      "word": "crater",
+      "definition": ""
+    },
+    {
+      "word": "坑",
+      "definition": ""
+    },
+    {
+      "word": "ash",
+      "definition": ""
+    },
+    {
+      "word": "灰烬",
+      "definition": ""
+    },
+    {
+      "word": "envelope",
+      "definition": ""
+    },
+    {
+      "word": "外层",
+      "definition": ""
+    },
+    {
+      "word": "chunk",
+      "definition": ""
+    },
+    {
+      "word": "厚块",
+      "definition": ""
+    },
+    {
+      "word": "探测，详尽调查",
+      "definition": ""
+    },
+    {
+      "word": "module",
+      "definition": ""
+    },
+    {
+      "word": "舱，模块",
+      "definition": ""
+    },
+    {
+      "word": "propulsion",
+      "definition": ""
+    },
+    {
+      "word": "推进力",
+      "definition": ""
+    },
+    {
+      "word": "motion",
+      "definition": ""
+    },
+    {
+      "word": "动作，移动",
+      "definition": ""
+    },
+    {
+      "word": "vent",
+      "definition": ""
+    },
+    {
+      "word": "排气口，排放，排泄",
+      "definition": ""
+    },
+    {
+      "word": "tail",
+      "definition": ""
+    },
+    {
+      "word": "尾部",
+      "definition": ""
+    },
+    {
+      "word": "expedition",
+      "definition": ""
+    },
+    {
+      "word": "远足，探索",
+      "definition": ""
+    },
+    {
+      "word": "flyby",
+      "definition": ""
+    },
+    {
+      "word": "飞掠",
+      "definition": ""
+    },
+    {
+      "word": "spectacle",
+      "definition": ""
+    },
+    {
+      "word": "奇观",
+      "definition": ""
+    },
+    {
+      "word": "diameter",
+      "definition": ""
+    },
+    {
+      "word": "直径",
+      "definition": ""
+    },
+    {
+      "word": "radius",
+      "definition": ""
+    },
+    {
+      "word": "半径",
+      "definition": ""
+    },
+    {
+      "word": "fossil",
+      "definition": ""
+    },
+    {
+      "word": "化石",
+      "definition": ""
+    },
+    {
+      "word": "specimen",
+      "definition": ""
+    },
+    {
+      "word": "样本，标本",
+      "definition": ""
+    },
+    {
+      "word": "particle",
+      "definition": ""
+    },
+    {
+      "word": "颗粒，微粒",
+      "definition": ""
+    },
+    {
+      "word": "molecule",
+      "definition": ""
+    },
+    {
+      "word": "分子",
+      "definition": ""
+    },
+    {
+      "word": "atom",
+      "definition": ""
+    },
+    {
+      "word": "原子",
+      "definition": ""
+    },
+    {
+      "word": "liquid",
+      "definition": ""
+    },
+    {
+      "word": "液体，液态的",
+      "definition": ""
+    },
+    {
+      "word": "fluid",
+      "definition": ""
+    },
+    {
+      "word": "流体的，流动的",
+      "definition": ""
+    },
+    {
+      "word": "synthesis",
+      "definition": ""
+    },
+    {
+      "word": "合成，综合",
+      "definition": ""
+    },
+    {
+      "word": "formation",
+      "definition": ""
+    },
+    {
+      "word": "形成",
+      "definition": ""
+    },
+    {
+      "word": "spectrum",
+      "definition": ""
+    },
+    {
+      "word": "范围，光谱",
+      "definition": ""
+    },
+    {
+      "word": "antenna",
+      "definition": ""
+    },
+    {
+      "word": "天线",
+      "definition": ""
+    },
+    {
+      "word": "refraction",
+      "definition": ""
+    },
+    {
+      "word": "折射",
+      "definition": ""
+    },
+    {
+      "word": "radioactive",
+      "definition": ""
+    },
+    {
+      "word": "放射性的",
+      "definition": ""
+    },
+    {
+      "word": "discernible",
+      "definition": ""
+    },
+    {
+      "word": "可分辨的，看得清的",
+      "definition": ""
+    },
+    {
+      "word": "collison",
+      "definition": ""
+    },
+    {
+      "word": "冲突，碰撞事故",
+      "definition": ""
+    },
+    {
+      "word": "squash",
+      "definition": ""
+    },
+    {
+      "word": "压扁，壁球",
+      "definition": ""
+    },
+    {
+      "word": "cataclysmic",
+      "definition": ""
+    },
+    {
+      "word": "灾难性的，巨变的",
+      "definition": ""
+    },
+    {
+      "word": "overwhelming",
+      "definition": ""
+    },
+    {
+      "word": "压倒性的",
+      "definition": ""
+    },
+    {
+      "word": "despair",
+      "definition": ""
+    },
+    {
+      "word": "绝望",
+      "definition": ""
+    },
+    {
+      "word": "vn",
+      "definition": ""
+    },
+    {
+      "word": "desperate",
+      "definition": ""
+    },
+    {
+      "word": "绝望的",
+      "definition": ""
+    }
+  ],
+  "Chapter5": [
+    {
+      "word": "primary",
+      "definition": ""
+    },
+    {
+      "word": "主要的，最初的，小学的",
+      "definition": ""
+    },
+    {
+      "word": "secondary",
+      "definition": ""
+    },
+    {
+      "word": "中等教育的，次要的",
+      "definition": ""
+    },
+    {
+      "word": "novice",
+      "definition": ""
+    },
+    {
+      "word": "新手",
+      "definition": ""
+    },
+    {
+      "word": "recruit",
+      "definition": ""
+    },
+    {
+      "word": "吸收",
+      "definition": ""
+    },
+    {
+      "word": "literate",
+      "definition": ""
+    },
+    {
+      "word": "有读写能力的",
+      "definition": ""
+    },
+    {
+      "word": "illiteracy",
+      "definition": ""
+    },
+    {
+      "word": "文盲",
+      "definition": ""
+    },
+    {
+      "word": "numerate",
+      "definition": ""
+    },
+    {
+      "word": "识数的，有计算能力的",
+      "definition": ""
+    },
+    {
+      "word": "issue",
+      "definition": ""
+    },
+    {
+      "word": "重要问题，发行",
+      "definition": ""
+    },
+    {
+      "word": "affair",
+      "definition": ""
+    },
+    {
+      "word": "事件，公共事务",
+      "definition": ""
+    },
+    {
+      "word": "controversial",
+      "definition": ""
+    },
+    {
+      "word": "有争议的",
+      "definition": ""
+    },
+    {
+      "word": "riddle",
+      "definition": ""
+    },
+    {
+      "word": "谜语",
+      "definition": ""
+    },
+    {
+      "word": "obscure",
+      "definition": ""
+    },
+    {
+      "word": "难以理解的",
+      "definition": ""
+    },
+    {
+      "word": "instill",
+      "definition": ""
+    },
+    {
+      "word": "逐渐灌输",
+      "definition": ""
+    },
+    {
+      "word": "cram",
+      "definition": ""
+    },
+    {
+      "word": "把什么塞进",
+      "definition": ""
+    },
+    {
+      "word": "spur",
+      "definition": ""
+    },
+    {
+      "word": "鞭策，刺激",
+      "definition": ""
+    },
+    {
+      "word": "indulge",
+      "definition": ""
+    },
+    {
+      "word": "沉湎，放任",
+      "definition": ""
+    },
+    {
+      "word": "idiot",
+      "definition": ""
+    },
+    {
+      "word": "白痴，傻瓜",
+      "definition": ""
+    },
+    {
+      "word": "aptitude",
+      "definition": ""
+    },
+    {
+      "word": "资质，天生的才能",
+      "definition": ""
+    },
+    {
+      "word": "prestige",
+      "definition": ""
+    },
+    {
+      "word": "威望，声望",
+      "definition": ""
+    },
+    {
+      "word": "eminent",
+      "definition": ""
+    },
+    {
+      "word": "著名的，杰出的",
+      "definition": ""
+    },
+    {
+      "word": "notorious",
+      "definition": ""
+    },
+    {
+      "word": "声名狼藉的",
+      "definition": ""
+    },
+    {
+      "word": "painstaking",
+      "definition": ""
+    },
+    {
+      "word": "极其仔细的，辛苦的",
+      "definition": ""
+    },
+    {
+      "word": "principal",
+      "definition": ""
+    },
+    {
+      "word": "校长，首要的",
+      "definition": ""
+    },
+    {
+      "word": "dean",
+      "definition": ""
+    },
+    {
+      "word": "学院院长",
+      "definition": ""
+    },
+    {
+      "word": "qualify",
+      "definition": ""
+    },
+    {
+      "word": "是具有资格",
+      "definition": ""
+    },
+    {
+      "word": "diplomat",
+      "definition": ""
+    },
+    {
+      "word": "外交官",
+      "definition": ""
+    },
+    {
+      "word": "ambassador",
+      "definition": ""
+    },
+    {
+      "word": "大使",
+      "definition": ""
+    },
+    {
+      "word": "pupil",
+      "definition": ""
+    },
+    {
+      "word": "小学生，瞳孔",
+      "definition": ""
+    },
+    {
+      "word": "bachelor",
+      "definition": ""
+    },
+    {
+      "word": "学士，单身汉",
+      "definition": ""
+    },
+    {
+      "word": "master",
+      "definition": ""
+    },
+    {
+      "word": "硕士",
+      "definition": ""
+    },
+    {
+      "word": "doctor",
+      "definition": ""
+    },
+    {
+      "word": "博士，医生",
+      "definition": ""
+    },
+    {
+      "word": "fresher",
+      "definition": ""
+    },
+    {
+      "word": "大一",
+      "definition": ""
+    },
+    {
+      "word": "sophomore",
+      "definition": ""
+    },
+    {
+      "word": "大二",
+      "definition": ""
+    },
+    {
+      "word": "junior",
+      "definition": ""
+    },
+    {
+      "word": "大三",
+      "definition": ""
+    },
+    {
+      "word": "alumni",
+      "definition": ""
+    },
+    {
+      "word": "毕业生，校友",
+      "definition": ""
+    },
+    {
+      "word": "orientation",
+      "definition": ""
+    },
+    {
+      "word": "情况介绍，因新会",
+      "definition": ""
+    },
+    {
+      "word": "roster",
+      "definition": ""
+    },
+    {
+      "word": "花名册，登记表",
+      "definition": ""
+    },
+    {
+      "word": "dorm",
+      "definition": ""
+    },
+    {
+      "word": "，",
+      "definition": ""
+    },
+    {
+      "word": "宿舍",
+      "definition": ""
+    },
+    {
+      "word": "tale",
+      "definition": ""
+    },
+    {
+      "word": "故事，传说",
+      "definition": ""
+    },
+    {
+      "word": "poetry",
+      "definition": ""
+    },
+    {
+      "word": "诗歌",
+      "definition": ""
+    },
+    {
+      "word": "magazine",
+      "definition": ""
+    },
+    {
+      "word": "杂志",
+      "definition": ""
+    },
+    {
+      "word": "dining hall",
+      "definition": ""
+    },
+    {
+      "word": "食堂",
+      "definition": ""
+    },
+    {
+      "word": "canteen",
+      "definition": ""
+    },
+    {
+      "word": "sketch",
+      "definition": ""
+    },
+    {
+      "word": "概述，概括",
+      "definition": ""
+    },
+    {
+      "word": "catalogue",
+      "definition": ""
+    },
+    {
+      "word": "目录",
+      "definition": ""
+    },
+    {
+      "word": "menu",
+      "definition": ""
+    },
+    {
+      "word": "inventory",
+      "definition": ""
+    },
+    {
+      "word": "库存，详细目录",
+      "definition": ""
+    },
+    {
+      "word": "reel",
+      "definition": ""
+    },
+    {
+      "word": "卷轴",
+      "definition": ""
+    },
+    {
+      "word": "audit",
+      "definition": ""
+    },
+    {
+      "word": "审计",
+      "definition": ""
+    },
+    {
+      "word": "旁听",
+      "definition": ""
+    },
+    {
+      "word": "logistics",
+      "definition": ""
+    },
+    {
+      "word": "物流，后勤",
+      "definition": ""
+    },
+    {
+      "word": "electronics",
+      "definition": ""
+    },
+    {
+      "word": "电子学",
+      "definition": ""
+    },
+    {
+      "word": "geometry",
+      "definition": ""
+    },
+    {
+      "word": "几何",
+      "definition": ""
+    },
+    {
+      "word": "algebra",
+      "definition": ""
+    },
+    {
+      "word": "代数",
+      "definition": ""
+    },
+    {
+      "word": "calculus",
+      "definition": ""
+    },
+    {
+      "word": "微积分",
+      "definition": ""
+    },
+    {
+      "word": "merge",
+      "definition": ""
+    },
+    {
+      "word": "合并",
+      "definition": ""
+    },
+    {
+      "word": "identical",
+      "definition": ""
+    },
+    {
+      "word": "同一的",
+      "definition": ""
+    },
+    {
+      "word": "minus",
+      "definition": ""
+    },
+    {
+      "word": "负的，减",
+      "definition": ""
+    },
+    {
+      "word": "subtract",
+      "definition": ""
+    },
+    {
+      "word": "减，",
+      "definition": ""
+    },
+    {
+      "word": "divide",
+      "definition": ""
+    },
+    {
+      "word": "除以",
+      "definition": ""
+    },
+    {
+      "word": "rational",
+      "definition": ""
+    },
+    {
+      "word": "有理数，有理的",
+      "definition": ""
+    },
+    {
+      "word": "even",
+      "definition": ""
+    },
+    {
+      "word": "偶数的，均匀的",
+      "definition": ""
+    },
+    {
+      "word": "odd",
+      "definition": ""
+    },
+    {
+      "word": "，奇数",
+      "definition": ""
+    },
+    {
+      "word": "matrix",
+      "definition": ""
+    },
+    {
+      "word": "矩阵",
+      "definition": ""
+    },
+    {
+      "word": "rectangle",
+      "definition": ""
+    },
+    {
+      "word": "矩阵，长方形",
+      "definition": ""
+    },
+    {
+      "word": "triangle",
+      "definition": ""
+    },
+    {
+      "word": "三角形",
+      "definition": ""
+    },
+    {
+      "word": "diagram",
+      "definition": ""
+    },
+    {
+      "word": "图表，示意图",
+      "definition": ""
+    },
+    {
+      "word": "martrix",
+      "definition": ""
+    },
+    {
+      "word": "dot",
+      "definition": ""
+    },
+    {
+      "word": "sphere",
+      "definition": ""
+    },
+    {
+      "word": "cone",
+      "definition": ""
+    },
+    {
+      "word": "圆锥",
+      "definition": ""
+    },
+    {
+      "word": "extent",
+      "definition": ""
+    },
+    {
+      "word": "decimal",
+      "definition": ""
+    },
+    {
+      "word": "小数的，小数",
+      "definition": ""
+    },
+    {
+      "word": "triple",
+      "definition": ""
+    },
+    {
+      "word": "三倍",
+      "definition": ""
+    },
+    {
+      "word": "quardruple",
+      "definition": ""
+    },
+    {
+      "word": "四倍的，四倍",
+      "definition": ""
+    },
+    {
+      "word": "fraction",
+      "definition": ""
+    },
+    {
+      "word": "分数，小部分",
+      "definition": ""
+    },
+    {
+      "word": "ounce",
+      "definition": ""
+    },
+    {
+      "word": "盎司",
+      "definition": ""
+    },
+    {
+      "word": "density",
+      "definition": ""
+    },
+    {
+      "word": "密度",
+      "definition": ""
+    },
+    {
+      "word": "battery",
+      "definition": ""
+    },
+    {
+      "word": "电池",
+      "definition": ""
+    },
+    {
+      "word": "volt",
+      "definition": ""
+    },
+    {
+      "word": "伏特",
+      "definition": ""
+    },
+    {
+      "word": "radiate",
+      "definition": ""
+    },
+    {
+      "word": "辐射",
+      "definition": ""
+    },
+    {
+      "word": "transparent",
+      "definition": ""
+    },
+    {
+      "word": "透明的",
+      "definition": ""
+    },
+    {
+      "word": "gravity",
+      "definition": ""
+    },
+    {
+      "word": "重力",
+      "definition": ""
+    },
+    {
+      "word": "dissolve",
+      "definition": ""
+    },
+    {
+      "word": "溶解",
+      "definition": ""
+    },
+    {
+      "word": "farment",
+      "definition": ""
+    },
+    {
+      "word": "使发酵，骚动",
+      "definition": ""
+    },
+    {
+      "word": "dilute",
+      "definition": ""
+    },
+    {
+      "word": "冲淡，稀释",
+      "definition": ""
+    },
+    {
+      "word": "moxious",
+      "definition": ""
+    },
+    {
+      "word": "static",
+      "definition": ""
+    },
+    {
+      "word": "静态的，静力的",
+      "definition": ""
+    },
+    {
+      "word": "inert",
+      "definition": ""
+    },
+    {
+      "word": "无生气的，惰性的。",
+      "definition": ""
+    },
+    {
+      "word": "theory",
+      "definition": ""
+    },
+    {
+      "word": "理论",
+      "definition": ""
+    },
+    {
+      "word": "empirical",
+      "definition": ""
+    },
+    {
+      "word": "实验的",
+      "definition": ""
+    },
+    {
+      "word": "doctrine",
+      "definition": ""
+    },
+    {
+      "word": "教义",
+      "definition": ""
+    },
+    {
+      "word": "term",
+      "definition": ""
+    },
+    {
+      "word": "期限，术语",
+      "definition": ""
+    },
+    {
+      "word": "semester",
+      "definition": ""
+    },
+    {
+      "word": "学期",
+      "definition": ""
+    },
+    {
+      "word": "curriculum",
+      "definition": ""
+    },
+    {
+      "word": "课程，全部课程",
+      "definition": ""
+    },
+    {
+      "word": "forum",
+      "definition": ""
+    },
+    {
+      "word": "讨论会，论坛",
+      "definition": ""
+    },
+    {
+      "word": "syllabus",
+      "definition": ""
+    },
+    {
+      "word": "教学大纲",
+      "definition": ""
+    },
+    {
+      "word": "compulsory",
+      "definition": ""
+    },
+    {
+      "word": "义务的，强制的",
+      "definition": ""
+    },
+    {
+      "word": "prerequisite",
+      "definition": ""
+    },
+    {
+      "word": "必备条件，必备的",
+      "definition": ""
+    },
+    {
+      "word": "scrutinise",
+      "definition": ""
+    },
+    {
+      "word": "详细检查",
+      "definition": ""
+    },
+    {
+      "word": "recite",
+      "definition": ""
+    },
+    {
+      "word": "背诵",
+      "definition": ""
+    },
+    {
+      "word": "quiz",
+      "definition": ""
+    },
+    {
+      "word": "智力竞赛，小测试",
+      "definition": ""
+    },
+    {
+      "word": "presentation",
+      "definition": ""
+    },
+    {
+      "word": "陈述，表演",
+      "definition": ""
+    },
+    {
+      "word": "dissertation",
+      "definition": ""
+    },
+    {
+      "word": "论文，学位论文",
+      "definition": ""
+    },
+    {
+      "word": "outset",
+      "definition": ""
+    },
+    {
+      "word": "开端",
+      "definition": ""
+    },
+    {
+      "word": "gist",
+      "definition": ""
+    },
+    {
+      "word": "主旨，要点",
+      "definition": ""
+    },
+    {
+      "word": "elicit",
+      "definition": ""
+    },
+    {
+      "word": "引出，探出",
+      "definition": ""
+    },
+    {
+      "word": "extract",
+      "definition": ""
+    },
+    {
+      "word": "摘录",
+      "definition": ""
+    },
+    {
+      "word": "hypothesis",
+      "definition": ""
+    },
+    {
+      "word": "假说",
+      "definition": ""
+    },
+    {
+      "word": "postulate",
+      "definition": ""
+    },
+    {
+      "word": "假定，假设",
+      "definition": ""
+    },
+    {
+      "word": "perceive",
+      "definition": ""
+    },
+    {
+      "word": "感知，察觉，意识到",
+      "definition": ""
+    },
+    {
+      "word": "discern",
+      "definition": ""
+    },
+    {
+      "word": "，",
+      "definition": ""
+    },
+    {
+      "word": "发觉",
+      "definition": ""
+    },
+    {
+      "word": "reckon",
+      "definition": ""
+    },
+    {
+      "word": "估计，期望，认为",
+      "definition": ""
+    },
+    {
+      "word": "deliberate",
+      "definition": ""
+    },
+    {
+      "word": "深思熟虑",
+      "definition": ""
+    },
+    {
+      "word": "deduce",
+      "definition": ""
+    },
+    {
+      "word": "演绎，推论",
+      "definition": ""
+    },
+    {
+      "word": "analogy",
+      "definition": ""
+    },
+    {
+      "word": "类比，类推",
+      "definition": ""
+    },
+    {
+      "word": "overlap",
+      "definition": ""
+    },
+    {
+      "word": "重叠",
+      "definition": ""
+    },
+    {
+      "word": "contradiction",
+      "definition": ""
+    },
+    {
+      "word": "矛盾，不一致，反驳",
+      "definition": ""
+    },
+    {
+      "word": "thotough",
+      "definition": ""
+    },
+    {
+      "word": "彻底的，详尽的",
+      "definition": ""
+    },
+    {
+      "word": "manifest",
+      "definition": ""
+    },
+    {
+      "word": "显示，表明",
+      "definition": ""
+    },
+    {
+      "word": "query",
+      "definition": ""
+    },
+    {
+      "word": "疑问，怀疑",
+      "definition": ""
+    },
+    {
+      "word": "grant",
+      "definition": ""
+    },
+    {
+      "word": "授予，准予",
+      "definition": ""
+    },
+    {
+      "word": "fellowship",
+      "definition": ""
+    },
+    {
+      "word": "研究生奖学金",
+      "definition": ""
+    }
+  ],
+  "Chapter 6": [
+    {
+      "word": "audio",
+      "definition": ""
+    },
+    {
+      "word": "声音的",
+      "definition": ""
+    },
+    {
+      "word": "technique",
+      "definition": ""
+    },
+    {
+      "word": "技术",
+      "definition": ""
+    },
+    {
+      "word": "polytechnic",
+      "definition": ""
+    },
+    {
+      "word": "理工学院，有关多种工艺的",
+      "definition": ""
+    },
+    {
+      "word": "gizmo",
+      "definition": ""
+    },
+    {
+      "word": "小装置",
+      "definition": ""
+    },
+    {
+      "word": "disclose",
+      "definition": ""
+    },
+    {
+      "word": "揭露，透露",
+      "definition": ""
+    },
+    {
+      "word": "reveal ucover expose",
+      "definition": ""
+    },
+    {
+      "word": "domain",
+      "definition": ""
+    },
+    {
+      "word": "领域",
+      "definition": ""
+    },
+    {
+      "word": "field,realm",
+      "definition": ""
+    },
+    {
+      "word": "absorb",
+      "definition": ""
+    },
+    {
+      "word": "facility",
+      "definition": ""
+    },
+    {
+      "word": "工具，设备",
+      "definition": ""
+    },
+    {
+      "word": "equipment",
+      "definition": ""
+    },
+    {
+      "word": "，",
+      "definition": ""
+    },
+    {
+      "word": "instrument",
+      "definition": ""
+    },
+    {
+      "word": "、",
+      "definition": ""
+    },
+    {
+      "word": "tool",
+      "definition": ""
+    },
+    {
+      "word": "gauge",
+      "definition": ""
+    },
+    {
+      "word": "measure",
+      "definition": ""
+    },
+    {
+      "word": "compute",
+      "definition": ""
+    },
+    {
+      "word": "calculate,count",
+      "definition": ""
+    },
+    {
+      "word": "estimate",
+      "definition": ""
+    },
+    {
+      "word": "asses,evaluate.",
+      "definition": ""
+    },
+    {
+      "word": "accessory",
+      "definition": ""
+    },
+    {
+      "word": "byproduct",
+      "definition": ""
+    },
+    {
+      "word": "auxiliary",
+      "definition": ""
+    },
+    {
+      "word": "versatile",
+      "definition": ""
+    },
+    {
+      "word": "belong",
+      "definition": ""
+    },
+    {
+      "word": "应在某处，适合",
+      "definition": ""
+    },
+    {
+      "word": "lens",
+      "definition": ""
+    },
+    {
+      "word": "radar",
+      "definition": ""
+    },
+    {
+      "word": "sensor",
+      "definition": ""
+    },
+    {
+      "word": "multimedia",
+      "definition": ""
+    },
+    {
+      "word": "keyboard",
+      "definition": ""
+    },
+    {
+      "word": "cassette",
+      "definition": ""
+    },
+    {
+      "word": "盒式磁带",
+      "definition": ""
+    },
+    {
+      "word": "tape",
+      "definition": ""
+    },
+    {
+      "word": "binary",
+      "definition": ""
+    },
+    {
+      "word": "二进制的，二元的",
+      "definition": ""
+    },
+    {
+      "word": "gear",
+      "definition": ""
+    },
+    {
+      "word": "齿轮，传动装置",
+      "definition": ""
+    },
+    {
+      "word": "pivot",
+      "definition": ""
+    },
+    {
+      "word": "数轴，支点",
+      "definition": ""
+    },
+    {
+      "word": "drainage",
+      "definition": ""
+    },
+    {
+      "word": "drain",
+      "definition": ""
+    },
+    {
+      "word": "排干，排水",
+      "definition": ""
+    },
+    {
+      "word": "condense",
+      "definition": ""
+    },
+    {
+      "word": "压缩，精简",
+      "definition": ""
+    },
+    {
+      "word": "浇筑，塑造，莫子",
+      "definition": ""
+    },
+    {
+      "word": "fault",
+      "definition": ""
+    },
+    {
+      "word": "contingency",
+      "definition": ""
+    },
+    {
+      "word": "意外事件",
+      "definition": ""
+    },
+    {
+      "word": "stumble",
+      "definition": ""
+    },
+    {
+      "word": "犯错误，绊脚",
+      "definition": ""
+    }
+  ],
+  "Chapter 7": [
+    {
+      "word": "renaissance",
+      "definition": ""
+    },
+    {
+      "word": "epic",
+      "definition": ""
+    },
+    {
+      "word": "史诗，宏大的",
+      "definition": ""
+    },
+    {
+      "word": "feudalism",
+      "definition": ""
+    },
+    {
+      "word": "封建主义",
+      "definition": ""
+    },
+    {
+      "word": "slavery",
+      "definition": ""
+    },
+    {
+      "word": "奴隶制",
+      "definition": ""
+    },
+    {
+      "word": "inhabitant",
+      "definition": ""
+    },
+    {
+      "word": "居民",
+      "definition": ""
+    },
+    {
+      "word": "exotic",
+      "definition": ""
+    },
+    {
+      "word": "异域风情",
+      "definition": ""
+    },
+    {
+      "word": "excavate",
+      "definition": ""
+    },
+    {
+      "word": "挖掘，发掘",
+      "definition": ""
+    },
+    {
+      "word": "pottery",
+      "definition": ""
+    },
+    {
+      "word": "陶器",
+      "definition": ""
+    },
+    {
+      "word": "engrave",
+      "definition": ""
+    },
+    {
+      "word": "镌刻",
+      "definition": ""
+    },
+    {
+      "word": "ritual",
+      "definition": ""
+    },
+    {
+      "word": "仪式",
+      "definition": ""
+    },
+    {
+      "word": "etiquette",
+      "definition": ""
+    },
+    {
+      "word": "礼仪，礼节",
+      "definition": ""
+    },
+    {
+      "word": "sacred",
+      "definition": ""
+    },
+    {
+      "word": "神圣的，宗教的",
+      "definition": ""
+    },
+    {
+      "word": "hallowed",
+      "definition": ""
+    },
+    {
+      "word": "神圣的，受尊敬的",
+      "definition": ""
+    },
+    {
+      "word": "bishop",
+      "definition": ""
+    },
+    {
+      "word": "焦黄",
+      "definition": ""
+    },
+    {
+      "word": "priest",
+      "definition": ""
+    },
+    {
+      "word": "牧师，神父",
+      "definition": ""
+    },
+    {
+      "word": "cathedral",
+      "definition": ""
+    },
+    {
+      "word": "大教堂",
+      "definition": ""
+    },
+    {
+      "word": "choir",
+      "definition": ""
+    },
+    {
+      "word": "唱诗班",
+      "definition": ""
+    },
+    {
+      "word": "empire",
+      "definition": ""
+    },
+    {
+      "word": "帝国",
+      "definition": ""
+    },
+    {
+      "word": "imperial",
+      "definition": ""
+    },
+    {
+      "word": "，帝国的",
+      "definition": ""
+    },
+    {
+      "word": "chronology",
+      "definition": ""
+    },
+    {
+      "word": "年表，事件发生顺序",
+      "definition": ""
+    },
+    {
+      "word": "majesty",
+      "definition": ""
+    },
+    {
+      "word": "威严，壮观",
+      "definition": ""
+    },
+    {
+      "word": "nobility",
+      "definition": ""
+    },
+    {
+      "word": "贵族",
+      "definition": ""
+    },
+    {
+      "word": "guardian",
+      "definition": ""
+    },
+    {
+      "word": "监管者，守护的",
+      "definition": ""
+    },
+    {
+      "word": "nostalgia",
+      "definition": ""
+    },
+    {
+      "word": "思想之情，怀旧之情",
+      "definition": ""
+    },
+    {
+      "word": "homesick",
+      "definition": ""
+    },
+    {
+      "word": "思乡的",
+      "definition": ""
+    },
+    {
+      "word": "status",
+      "definition": ""
+    },
+    {
+      "word": "身份，地位",
+      "definition": ""
+    },
+    {
+      "word": "anecdote",
+      "definition": ""
+    },
+    {
+      "word": "奇闻逸事",
+      "definition": ""
+    },
+    {
+      "word": "incident",
+      "definition": ""
+    },
+    {
+      "word": "事件",
+      "definition": ""
+    },
+    {
+      "word": "setback",
+      "definition": ""
+    },
+    {
+      "word": "挫折，阻碍",
+      "definition": ""
+    },
+    {
+      "word": "adversity",
+      "definition": ""
+    },
+    {
+      "word": "逆境",
+      "definition": ""
+    },
+    {
+      "word": "monologue",
+      "definition": ""
+    },
+    {
+      "word": "独白",
+      "definition": ""
+    }
+  ],
+  "Chapter 8": [
+    {
+      "word": "语言演化",
+      "definition": ""
+    },
+    {
+      "word": "linguistics",
+      "definition": ""
+    },
+    {
+      "word": "语言学",
+      "definition": ""
+    },
+    {
+      "word": "semantic",
+      "definition": ""
+    },
+    {
+      "word": "语义的",
+      "definition": ""
+    },
+    {
+      "word": "syntax",
+      "definition": ""
+    },
+    {
+      "word": "句法",
+      "definition": ""
+    },
+    {
+      "word": "phonetics",
+      "definition": ""
+    },
+    {
+      "word": "语音学",
+      "definition": ""
+    },
+    {
+      "word": "intonation",
+      "definition": ""
+    },
+    {
+      "word": "语调",
+      "definition": ""
+    },
+    {
+      "word": "dialect",
+      "definition": ""
+    },
+    {
+      "word": "方言，地方话",
+      "definition": ""
+    },
+    {
+      "word": "utterance",
+      "definition": ""
+    },
+    {
+      "word": "说话，话语",
+      "definition": ""
+    },
+    {
+      "word": "oral",
+      "definition": ""
+    },
+    {
+      "word": "口头的",
+      "definition": ""
+    },
+    {
+      "word": "verbal",
+      "definition": ""
+    },
+    {
+      "word": "口头的，言语的",
+      "definition": ""
+    },
+    {
+      "word": "dictionary",
+      "definition": ""
+    },
+    {
+      "word": "字典",
+      "definition": ""
+    },
+    {
+      "word": "idiom",
+      "definition": ""
+    },
+    {
+      "word": "习语",
+      "definition": ""
+    },
+    {
+      "word": "abbreviation",
+      "definition": ""
+    },
+    {
+      "word": "缩写",
+      "definition": ""
+    },
+    {
+      "word": "synonym",
+      "definition": ""
+    },
+    {
+      "word": "同义词",
+      "definition": ""
+    },
+    {
+      "word": "antonym",
+      "definition": ""
+    },
+    {
+      "word": "反义词",
+      "definition": ""
+    },
+    {
+      "word": "conjunction",
+      "definition": ""
+    },
+    {
+      "word": "连词，结合",
+      "definition": ""
+    },
+    {
+      "word": "decipher",
+      "definition": ""
+    },
+    {
+      "word": "辨认",
+      "definition": ""
+    },
+    {
+      "word": "eloquence",
+      "definition": ""
+    },
+    {
+      "word": "流利的口才",
+      "definition": ""
+    },
+    {
+      "word": "commentary",
+      "definition": ""
+    },
+    {
+      "word": "评论，评注",
+      "definition": ""
+    },
+    {
+      "word": "contention",
+      "definition": ""
+    },
+    {
+      "word": "争论，争辩",
+      "definition": ""
+    }
+  ],
+  "Chapter 9": [
+    {
+      "word": "娱乐运动",
+      "definition": ""
+    },
+    {
+      "word": "athlete",
+      "definition": ""
+    },
+    {
+      "word": "运动会",
+      "definition": ""
+    },
+    {
+      "word": "pree",
+      "definition": ""
+    },
+    {
+      "word": "，",
+      "definition": ""
+    },
+    {
+      "word": "新闻界，记者，出版社",
+      "definition": ""
+    },
+    {
+      "word": "exponent",
+      "definition": ""
+    },
+    {
+      "word": "倡导者，拥护者",
+      "definition": ""
+    },
+    {
+      "word": "handout",
+      "definition": ""
+    },
+    {
+      "word": "传单，讲义",
+      "definition": ""
+    },
+    {
+      "word": "leaflet",
+      "definition": ""
+    },
+    {
+      "word": "传单，散发传单",
+      "definition": ""
+    },
+    {
+      "word": "propaganda",
+      "definition": ""
+    },
+    {
+      "word": "宣传，鼓吹",
+      "definition": ""
+    },
+    {
+      "word": "disseminate",
+      "definition": ""
+    },
+    {
+      "word": "散步，传播",
+      "definition": ""
+    },
+    {
+      "word": "rumour",
+      "definition": ""
+    },
+    {
+      "word": "肿瘤",
+      "definition": ""
+    },
+    {
+      "word": "rehearsal",
+      "definition": ""
+    },
+    {
+      "word": "排练",
+      "definition": ""
+    },
+    {
+      "word": "imitate",
+      "definition": ""
+    },
+    {
+      "word": "模型",
+      "definition": ""
+    },
+    {
+      "word": "mimic",
+      "definition": ""
+    },
+    {
+      "word": "模仿，效仿",
+      "definition": ""
+    },
+    {
+      "word": "simulate",
+      "definition": ""
+    },
+    {
+      "word": "模拟，假冒",
+      "definition": ""
+    },
+    {
+      "word": "circus",
+      "definition": ""
+    },
+    {
+      "word": "马戏团，圆形广场",
+      "definition": ""
+    },
+    {
+      "word": "symphony",
+      "definition": ""
+    },
+    {
+      "word": "交响乐，",
+      "definition": ""
+    },
+    {
+      "word": "orchestra",
+      "definition": ""
+    },
+    {
+      "word": "管弦乐",
+      "definition": ""
+    },
+    {
+      "word": "‘",
+      "definition": ""
+    },
+    {
+      "word": "opera",
+      "definition": ""
+    },
+    {
+      "word": "歌剧",
+      "definition": ""
+    },
+    {
+      "word": "tragedy",
+      "definition": ""
+    },
+    {
+      "word": "悲惨故事，悲剧",
+      "definition": ""
+    },
+    {
+      "word": "animation",
+      "definition": ""
+    },
+    {
+      "word": "动画片",
+      "definition": ""
+    },
+    {
+      "word": "scene",
+      "definition": ""
+    },
+    {
+      "word": "场景，现场",
+      "definition": ""
+    },
+    {
+      "word": "gallery",
+      "definition": ""
+    },
+    {
+      "word": "美术馆",
+      "definition": ""
+    },
+    {
+      "word": "portrait",
+      "definition": ""
+    },
+    {
+      "word": "肖像",
+      "definition": ""
+    },
+    {
+      "word": "sculpture",
+      "definition": ""
+    },
+    {
+      "word": "雕塑",
+      "definition": ""
+    },
+    {
+      "word": "素描，速写",
+      "definition": ""
+    },
+    {
+      "word": "depict",
+      "definition": ""
+    },
+    {
+      "word": "描述，描写",
+      "definition": ""
+    },
+    {
+      "word": "improvise",
+      "definition": ""
+    },
+    {
+      "word": "临时做，即兴创作",
+      "definition": ""
+    },
+    {
+      "word": "lyric",
+      "definition": ""
+    },
+    {
+      "word": "抒情诗",
+      "definition": ""
+    },
+    {
+      "word": "melody",
+      "definition": ""
+    },
+    {
+      "word": "旋律，乐曲",
+      "definition": ""
+    },
+    {
+      "word": "rhythm",
+      "definition": ""
+    },
+    {
+      "word": "节奏，韵律",
+      "definition": ""
+    },
+    {
+      "word": "tone",
+      "definition": ""
+    },
+    {
+      "word": "音色，声调",
+      "definition": ""
+    },
+    {
+      "word": "tune",
+      "definition": ""
+    },
+    {
+      "word": "曲调，段乐曲",
+      "definition": ""
+    },
+    {
+      "word": "trumpet",
+      "definition": ""
+    },
+    {
+      "word": "号子，喇叭",
+      "definition": ""
+    },
+    {
+      "word": "flute",
+      "definition": ""
+    },
+    {
+      "word": "长笛",
+      "definition": ""
+    },
+    {
+      "word": "tournament",
+      "definition": ""
+    },
+    {
+      "word": "锦标赛",
+      "definition": ""
+    },
+    {
+      "word": "sponsor",
+      "definition": ""
+    },
+    {
+      "word": "发起人，主办人",
+      "definition": ""
+    },
+    {
+      "word": "patron",
+      "definition": ""
+    },
+    {
+      "word": "赞助人，顾客",
+      "definition": ""
+    },
+    {
+      "word": "spectator",
+      "definition": ""
+    },
+    {
+      "word": "观众",
+      "definition": ""
+    },
+    {
+      "word": "vigorous",
+      "definition": ""
+    },
+    {
+      "word": "活跃的，积极的",
+      "definition": ""
+    },
+    {
+      "word": "做动作",
+      "definition": ""
+    },
+    {
+      "word": "stretch",
+      "definition": ""
+    },
+    {
+      "word": "伸展，伸长",
+      "definition": ""
+    },
+    {
+      "word": "cricket",
+      "definition": ""
+    },
+    {
+      "word": "板球",
+      "definition": ""
+    },
+    {
+      "word": "pitch",
+      "definition": ""
+    },
+    {
+      "word": "投，掷",
+      "definition": ""
+    },
+    {
+      "word": "slip",
+      "definition": ""
+    },
+    {
+      "word": "滑行",
+      "definition": ""
+    },
+    {
+      "word": "glide",
+      "definition": ""
+    },
+    {
+      "word": "掠过，滑动",
+      "definition": ""
+    },
+    {
+      "word": "tumble",
+      "definition": ""
+    },
+    {
+      "word": "摔倒，滚下",
+      "definition": ""
+    },
+    {
+      "word": "pedestrain",
+      "definition": ""
+    },
+    {
+      "word": "步行者，行人",
+      "definition": ""
+    },
+    {
+      "word": "excursion",
+      "definition": ""
+    },
+    {
+      "word": "远足，短程旅行",
+      "definition": ""
+    }
+  ],
+  "Chapter 10": [
+    {
+      "word": "物品材料",
+      "definition": ""
+    },
+    {
+      "word": "detergent",
+      "definition": ""
+    },
+    {
+      "word": "洗涤剂",
+      "definition": ""
+    },
+    {
+      "word": "tub",
+      "definition": ""
+    },
+    {
+      "word": "桶",
+      "definition": ""
+    },
+    {
+      "word": "merchandise",
+      "definition": ""
+    },
+    {
+      "word": "商品",
+      "definition": ""
+    },
+    {
+      "word": "souvenir",
+      "definition": ""
+    },
+    {
+      "word": "纪念品",
+      "definition": ""
+    },
+    {
+      "word": "artifact",
+      "definition": ""
+    },
+    {
+      "word": "人造物品，手工艺品",
+      "definition": ""
+    },
+    {
+      "word": "crude",
+      "definition": ""
+    },
+    {
+      "word": "天然的，粗糙的",
+      "definition": ""
+    },
+    {
+      "word": "kit",
+      "definition": ""
+    },
+    {
+      "word": "成套工具",
+      "definition": ""
+    },
+    {
+      "word": "utensil",
+      "definition": ""
+    },
+    {
+      "word": "用具",
+      "definition": ""
+    },
+    {
+      "word": "garbage",
+      "definition": ""
+    },
+    {
+      "word": "垃圾",
+      "definition": ""
+    },
+    {
+      "word": "rubbish",
+      "definition": ""
+    },
+    {
+      "word": "，",
+      "definition": ""
+    },
+    {
+      "word": "trash",
+      "definition": ""
+    },
+    {
+      "word": "，",
+      "definition": ""
+    },
+    {
+      "word": "litter",
+      "definition": ""
+    },
+    {
+      "word": "，",
+      "definition": ""
+    },
+    {
+      "word": "junk",
+      "definition": ""
+    },
+    {
+      "word": "landfill",
+      "definition": ""
+    },
+    {
+      "word": "垃圾填埋",
+      "definition": ""
+    },
+    {
+      "word": "sewerage",
+      "definition": ""
+    },
+    {
+      "word": "排水系统",
+      "definition": ""
+    },
+    {
+      "word": "lotion",
+      "definition": ""
+    },
+    {
+      "word": "护肤品",
+      "definition": ""
+    },
+    {
+      "word": "tap",
+      "definition": ""
+    },
+    {
+      "word": "龙头",
+      "definition": ""
+    },
+    {
+      "word": "pipe",
+      "definition": ""
+    },
+    {
+      "word": "管子，管道",
+      "definition": ""
+    },
+    {
+      "word": "tube",
+      "definition": ""
+    },
+    {
+      "word": "管",
+      "definition": ""
+    },
+    {
+      "word": "mattress",
+      "definition": ""
+    },
+    {
+      "word": "床垫",
+      "definition": ""
+    },
+    {
+      "word": "quilt",
+      "definition": ""
+    },
+    {
+      "word": "被子",
+      "definition": ""
+    },
+    {
+      "word": "sheet",
+      "definition": ""
+    },
+    {
+      "word": "被单，床单",
+      "definition": ""
+    },
+    {
+      "word": "pillow",
+      "definition": ""
+    },
+    {
+      "word": "枕头",
+      "definition": ""
+    },
+    {
+      "word": "towel",
+      "definition": ""
+    },
+    {
+      "word": "毛巾，手巾",
+      "definition": ""
+    },
+    {
+      "word": "staple",
+      "definition": ""
+    },
+    {
+      "word": "订书钉，主要部分",
+      "definition": ""
+    },
+    {
+      "word": "‘",
+      "definition": ""
+    },
+    {
+      "word": "razor",
+      "definition": ""
+    },
+    {
+      "word": "剃刀",
+      "definition": ""
+    },
+    {
+      "word": "cord",
+      "definition": ""
+    },
+    {
+      "word": "细绳，粗线",
+      "definition": ""
+    },
+    {
+      "word": "portfolio",
+      "definition": ""
+    },
+    {
+      "word": "文件夹，公文包",
+      "definition": ""
+    },
+    {
+      "word": "pamphlet",
+      "definition": ""
+    },
+    {
+      "word": "小册子",
+      "definition": ""
+    },
+    {
+      "word": "duplicate",
+      "definition": ""
+    },
+    {
+      "word": "重复，副本",
+      "definition": ""
+    },
+    {
+      "word": "stationery",
+      "definition": ""
+    },
+    {
+      "word": "文具，信纸",
+      "definition": ""
+    },
+    {
+      "word": "rim",
+      "definition": ""
+    },
+    {
+      "word": "pane",
+      "definition": ""
+    },
+    {
+      "word": "窗玻璃",
+      "definition": ""
+    },
+    {
+      "word": "opacity",
+      "definition": ""
+    },
+    {
+      "word": "不透明性",
+      "definition": ""
+    },
+    {
+      "word": "barrel",
+      "definition": ""
+    },
+    {
+      "word": "bucket",
+      "definition": ""
+    },
+    {
+      "word": "桶子",
+      "definition": ""
+    },
+    {
+      "word": "portable",
+      "definition": ""
+    },
+    {
+      "word": "便携的",
+      "definition": ""
+    },
+    {
+      "word": "真空，真空的",
+      "definition": ""
+    },
+    {
+      "word": "hurdle",
+      "definition": ""
+    },
+    {
+      "word": "栏架",
+      "definition": ""
+    },
+    {
+      "word": "‘",
+      "definition": ""
+    },
+    {
+      "word": "lead",
+      "definition": ""
+    },
+    {
+      "word": "铅",
+      "definition": ""
+    },
+    {
+      "word": "brass",
+      "definition": ""
+    },
+    {
+      "word": "黄铜",
+      "definition": ""
+    },
+    {
+      "word": "bronze",
+      "definition": ""
+    },
+    {
+      "word": "青铜",
+      "definition": ""
+    },
+    {
+      "word": "cement",
+      "definition": ""
+    },
+    {
+      "word": "水泥",
+      "definition": ""
+    },
+    {
+      "word": "沥青",
+      "definition": ""
+    },
+    {
+      "word": "plaster",
+      "definition": ""
+    },
+    {
+      "word": "灰泥，熟石膏",
+      "definition": ""
+    },
+    {
+      "word": "fabric",
+      "definition": ""
+    },
+    {
+      "word": "织物，布料",
+      "definition": ""
+    },
+    {
+      "word": "lumber",
+      "definition": ""
+    },
+    {
+      "word": "木材，木料",
+      "definition": ""
+    },
+    {
+      "word": "lubricate",
+      "definition": ""
+    },
+    {
+      "word": "润滑",
+      "definition": ""
+    },
+    {
+      "word": "inferior",
+      "definition": ""
+    },
+    {
+      "word": "差的，下级的",
+      "definition": ""
+    },
+    {
+      "word": "counterfeit",
+      "definition": ""
+    },
+    {
+      "word": "假冒的",
+      "definition": ""
+    },
+    {
+      "word": "fragile",
+      "definition": ""
+    },
+    {
+      "word": "易碎的",
+      "definition": ""
+    }
+  ],
+  "Chapter 11": [
+    {
+      "word": "vogue",
+      "definition": ""
+    },
+    {
+      "word": "流行",
+      "definition": ""
+    },
+    {
+      "word": "n",
+      "definition": ""
+    },
+    {
+      "word": "prevail",
+      "definition": ""
+    },
+    {
+      "word": "盛行，获胜",
+      "definition": ""
+    },
+    {
+      "word": "icon",
+      "definition": ""
+    },
+    {
+      "word": "偶像，图标",
+      "definition": ""
+    },
+    {
+      "word": "extravagant",
+      "definition": ""
+    },
+    {
+      "word": "奢侈的，过分的",
+      "definition": ""
+    },
+    {
+      "word": "jewellery",
+      "definition": ""
+    },
+    {
+      "word": "珠宝",
+      "definition": ""
+    },
+    {
+      "word": "gem",
+      "definition": ""
+    },
+    {
+      "word": "宝石",
+      "definition": ""
+    },
+    {
+      "word": "jade",
+      "definition": ""
+    },
+    {
+      "word": "玉石，翡翠",
+      "definition": ""
+    },
+    {
+      "word": "adorn",
+      "definition": ""
+    },
+    {
+      "word": "装饰，装扮",
+      "definition": ""
+    },
+    {
+      "word": "embellish",
+      "definition": ""
+    },
+    {
+      "word": "修饰",
+      "definition": ""
+    },
+    {
+      "word": "embroider",
+      "definition": ""
+    },
+    {
+      "word": "对",
+      "definition": ""
+    },
+    {
+      "word": "-",
+      "definition": ""
+    },
+    {
+      "word": "加以渲染",
+      "definition": ""
+    },
+    {
+      "word": "pigment",
+      "definition": ""
+    },
+    {
+      "word": "色素，颜料",
+      "definition": ""
+    },
+    {
+      "word": "dye",
+      "definition": ""
+    },
+    {
+      "word": "染色",
+      "definition": ""
+    },
+    {
+      "word": "masquerade",
+      "definition": ""
+    },
+    {
+      "word": "化妆，假扮",
+      "definition": ""
+    },
+    {
+      "word": "—",
+      "definition": ""
+    },
+    {
+      "word": "as",
+      "definition": ""
+    },
+    {
+      "word": "面纱，遮蔽物",
+      "definition": ""
+    },
+    {
+      "word": "costume",
+      "definition": ""
+    },
+    {
+      "word": "戏服",
+      "definition": ""
+    },
+    {
+      "word": "decent",
+      "definition": ""
+    },
+    {
+      "word": "得体的",
+      "definition": ""
+    },
+    {
+      "word": "exquisite",
+      "definition": ""
+    },
+    {
+      "word": "精致的，雅致的",
+      "definition": ""
+    },
+    {
+      "word": "cosmetics",
+      "definition": ""
+    },
+    {
+      "word": "化妆品",
+      "definition": ""
+    },
+    {
+      "word": "garment",
+      "definition": ""
+    },
+    {
+      "word": "衣服",
+      "definition": ""
+    },
+    {
+      "word": "laundry",
+      "definition": ""
+    },
+    {
+      "word": "洗衣店",
+      "definition": ""
+    },
+    {
+      "word": "wardrobe",
+      "definition": ""
+    },
+    {
+      "word": "衣柜",
+      "definition": ""
+    },
+    {
+      "word": "robe",
+      "definition": ""
+    },
+    {
+      "word": "长袍，浴袍",
+      "definition": ""
+    },
+    {
+      "word": "gown",
+      "definition": ""
+    },
+    {
+      "word": "长外衣",
+      "definition": ""
+    },
+    {
+      "word": "sweater",
+      "definition": ""
+    },
+    {
+      "word": "毛衣",
+      "definition": ""
+    },
+    {
+      "word": "clasp",
+      "definition": ""
+    },
+    {
+      "word": "搭扣，扣住",
+      "definition": ""
+    },
+    {
+      "word": "glove",
+      "definition": ""
+    },
+    {
+      "word": "手套",
+      "definition": ""
+    },
+    {
+      "word": "scarf",
+      "definition": ""
+    },
+    {
+      "word": "围巾，毛巾",
+      "definition": ""
+    },
+    {
+      "word": "purse",
+      "definition": ""
+    },
+    {
+      "word": "钱包",
+      "definition": ""
+    },
+    {
+      "word": "wallet",
+      "definition": ""
+    },
+    {
+      "word": "wrap",
+      "definition": ""
+    },
+    {
+      "word": "披肩",
+      "definition": ""
+    },
+    {
+      "word": "cloak",
+      "definition": ""
+    },
+    {
+      "word": "斗篷，覆盖物",
+      "definition": ""
+    },
+    {
+      "word": "collar",
+      "definition": ""
+    },
+    {
+      "word": "衣领，项圈",
+      "definition": ""
+    },
+    {
+      "word": "sleeve",
+      "definition": ""
+    },
+    {
+      "word": "袖子",
+      "definition": ""
+    },
+    {
+      "word": "slipper",
+      "definition": ""
+    },
+    {
+      "word": "拖鞋",
+      "definition": ""
+    },
+    {
+      "word": "stitch",
+      "definition": ""
+    },
+    {
+      "word": "针脚",
+      "definition": ""
+    },
+    {
+      "word": "strap",
+      "definition": ""
+    },
+    {
+      "word": "带子",
+      "definition": ""
+    },
+    {
+      "word": "ribbon",
+      "definition": ""
+    },
+    {
+      "word": "缎带",
+      "definition": ""
+    },
+    {
+      "word": "bracelet",
+      "definition": ""
+    },
+    {
+      "word": "手镯",
+      "definition": ""
+    },
+    {
+      "word": "textile",
+      "definition": ""
+    },
+    {
+      "word": "纺织品",
+      "definition": ""
+    },
+    {
+      "word": "velvet",
+      "definition": ""
+    },
+    {
+      "word": "丝绒",
+      "definition": ""
+    },
+    {
+      "word": "rag",
+      "definition": ""
+    },
+    {
+      "word": "破布",
+      "definition": ""
+    },
+    {
+      "word": "tan",
+      "definition": ""
+    },
+    {
+      "word": "棕黄色",
+      "definition": ""
+    },
+    {
+      "word": "stain",
+      "definition": ""
+    },
+    {
+      "word": "污染，污渍",
+      "definition": ""
+    }
+  ],
+  "Chapter12": [
+    {
+      "word": "appetite",
+      "definition": ""
+    },
+    {
+      "word": "食欲，强烈欲望",
+      "definition": ""
+    },
+    {
+      "word": "edible",
+      "definition": ""
+    },
+    {
+      "word": "可以吃的",
+      "definition": ""
+    },
+    {
+      "word": "recipe",
+      "definition": ""
+    },
+    {
+      "word": "食谱",
+      "definition": ""
+    },
+    {
+      "word": "refectory",
+      "definition": ""
+    },
+    {
+      "word": "食堂",
+      "definition": ""
+    },
+    {
+      "word": "餐厅",
+      "definition": ""
+    },
+    {
+      "word": "cafeteria",
+      "definition": ""
+    },
+    {
+      "word": "自助餐厅",
+      "definition": ""
+    },
+    {
+      "word": "buffet",
+      "definition": ""
+    },
+    {
+      "word": "自助餐",
+      "definition": ""
+    },
+    {
+      "word": "babecue",
+      "definition": ""
+    },
+    {
+      "word": "烧烤",
+      "definition": ""
+    },
+    {
+      "word": "supper",
+      "definition": ""
+    },
+    {
+      "word": "晚餐",
+      "definition": ""
+    },
+    {
+      "word": "banquet",
+      "definition": ""
+    },
+    {
+      "word": "宴会",
+      "definition": ""
+    },
+    {
+      "word": "refreshment",
+      "definition": ""
+    },
+    {
+      "word": "茶点",
+      "definition": ""
+    },
+    {
+      "word": "cuisine",
+      "definition": ""
+    },
+    {
+      "word": "菜肴",
+      "definition": ""
+    },
+    {
+      "word": "cutlery",
+      "definition": ""
+    },
+    {
+      "word": "餐具，刀具",
+      "definition": ""
+    },
+    {
+      "word": "ceramic",
+      "definition": ""
+    },
+    {
+      "word": "陶瓷的",
+      "definition": ""
+    },
+    {
+      "word": "porcelain",
+      "definition": ""
+    },
+    {
+      "word": "瓷器，瓷",
+      "definition": ""
+    },
+    {
+      "word": "saucer",
+      "definition": ""
+    },
+    {
+      "word": "茶托，茶碟",
+      "definition": ""
+    },
+    {
+      "word": "tray",
+      "definition": ""
+    },
+    {
+      "word": "盘子",
+      "definition": ""
+    },
+    {
+      "word": "mug",
+      "definition": ""
+    },
+    {
+      "word": "大杯，马克杯",
+      "definition": ""
+    },
+    {
+      "word": "kettle",
+      "definition": ""
+    },
+    {
+      "word": "水壶，锅",
+      "definition": ""
+    },
+    {
+      "word": "stove",
+      "definition": ""
+    },
+    {
+      "word": "炉子",
+      "definition": ""
+    },
+    {
+      "word": "furnace",
+      "definition": ""
+    },
+    {
+      "word": "熔炉",
+      "definition": ""
+    },
+    {
+      "word": "oven",
+      "definition": ""
+    },
+    {
+      "word": "烤箱",
+      "definition": ""
+    },
+    {
+      "word": "lid",
+      "definition": ""
+    },
+    {
+      "word": "盖子",
+      "definition": ""
+    },
+    {
+      "word": "beverage",
+      "definition": ""
+    },
+    {
+      "word": "饮料",
+      "definition": ""
+    },
+    {
+      "word": "cigarette",
+      "definition": ""
+    },
+    {
+      "word": "香烟",
+      "definition": ""
+    },
+    {
+      "word": "sober",
+      "definition": ""
+    },
+    {
+      "word": "清醒的",
+      "definition": ""
+    },
+    {
+      "word": "pea",
+      "definition": ""
+    },
+    {
+      "word": "豌豆",
+      "definition": ""
+    },
+    {
+      "word": "cucumber",
+      "definition": ""
+    },
+    {
+      "word": "黄瓜",
+      "definition": ""
+    },
+    {
+      "word": "eggplant",
+      "definition": ""
+    },
+    {
+      "word": "茄子",
+      "definition": ""
+    },
+    {
+      "word": "turnip",
+      "definition": ""
+    },
+    {
+      "word": "一种素菜",
+      "definition": ""
+    },
+    {
+      "word": "strip",
+      "definition": ""
+    },
+    {
+      "word": "剥去，皮条",
+      "definition": ""
+    },
+    {
+      "word": "hull",
+      "definition": ""
+    },
+    {
+      "word": "外壳",
+      "definition": ""
+    },
+    {
+      "word": "plum",
+      "definition": ""
+    },
+    {
+      "word": "李子，梅子",
+      "definition": ""
+    },
+    {
+      "word": "kiwi",
+      "definition": ""
+    },
+    {
+      "word": "猕猴桃",
+      "definition": ""
+    },
+    {
+      "word": "flour",
+      "definition": ""
+    },
+    {
+      "word": "面粉",
+      "definition": ""
+    },
+    {
+      "word": "porridge",
+      "definition": ""
+    },
+    {
+      "word": "麦片粥",
+      "definition": ""
+    },
+    {
+      "word": "paste",
+      "definition": ""
+    },
+    {
+      "word": "浆糊，面团",
+      "definition": ""
+    },
+    {
+      "word": "sausage",
+      "definition": ""
+    },
+    {
+      "word": "香肠",
+      "definition": ""
+    },
+    {
+      "word": "rod",
+      "definition": ""
+    },
+    {
+      "word": "杆",
+      "definition": ""
+    },
+    {
+      "word": "nut",
+      "definition": ""
+    },
+    {
+      "word": "坚果，螺母",
+      "definition": ""
+    },
+    {
+      "word": "vanilla",
+      "definition": ""
+    },
+    {
+      "word": "草香，香草味的",
+      "definition": ""
+    },
+    {
+      "word": "mustard",
+      "definition": ""
+    },
+    {
+      "word": "芥末",
+      "definition": ""
+    },
+    {
+      "word": "ginger",
+      "definition": ""
+    },
+    {
+      "word": "姜",
+      "definition": ""
+    },
+    {
+      "word": "scallion",
+      "definition": ""
+    },
+    {
+      "word": "大葱",
+      "definition": ""
+    },
+    {
+      "word": "vinegar",
+      "definition": ""
+    },
+    {
+      "word": "醋",
+      "definition": ""
+    },
+    {
+      "word": "flavor",
+      "definition": ""
+    },
+    {
+      "word": "味道；特色；风格",
+      "definition": ""
+    },
+    {
+      "word": "sour",
+      "definition": ""
+    },
+    {
+      "word": "酸的",
+      "definition": ""
+    },
+    {
+      "word": "bitter",
+      "definition": ""
+    },
+    {
+      "word": "苦的",
+      "definition": ""
+    },
+    {
+      "word": "spicy",
+      "definition": ""
+    },
+    {
+      "word": "辣的",
+      "definition": ""
+    },
+    {
+      "word": "yummy",
+      "definition": ""
+    },
+    {
+      "word": "美味的",
+      "definition": ""
+    },
+    {
+      "word": "thirsty",
+      "definition": ""
+    },
+    {
+      "word": "口渴的",
+      "definition": ""
+    },
+    {
+      "word": "spice",
+      "definition": ""
+    },
+    {
+      "word": "香料",
+      "definition": ""
+    },
+    {
+      "word": "sauce",
+      "definition": ""
+    },
+    {
+      "word": "酱汁",
+      "definition": ""
+    },
+    {
+      "word": "ketchup",
+      "definition": ""
+    },
+    {
+      "word": "番茄汁",
+      "definition": ""
+    },
+    {
+      "word": "perfume",
+      "definition": ""
+    },
+    {
+      "word": "香味，芳香",
+      "definition": ""
+    },
+    {
+      "word": "ingredient",
+      "definition": ""
+    },
+    {
+      "word": "成分",
+      "definition": ""
+    },
+    {
+      "word": "roast",
+      "definition": ""
+    },
+    {
+      "word": "烤肉，烤",
+      "definition": ""
+    },
+    {
+      "word": "toast",
+      "definition": ""
+    },
+    {
+      "word": "干杯，烤面包片",
+      "definition": ""
+    },
+    {
+      "word": "lick",
+      "definition": ""
+    },
+    {
+      "word": "舔",
+      "definition": ""
+    },
+    {
+      "word": "stir",
+      "definition": ""
+    },
+    {
+      "word": "搅动",
+      "definition": ""
+    },
+    {
+      "word": "grind",
+      "definition": ""
+    },
+    {
+      "word": "碾碎，枯燥乏味的事",
+      "definition": ""
+    },
+    {
+      "word": "slice",
+      "definition": ""
+    },
+    {
+      "word": "切成薄片",
+      "definition": ""
+    }
+  ],
+  "Chapter13": [
+    {
+      "word": "erection",
+      "definition": ""
+    },
+    {
+      "word": "建造",
+      "definition": ""
+    },
+    {
+      "word": "concrete",
+      "definition": ""
+    },
+    {
+      "word": "混凝土，具体的",
+      "definition": ""
+    },
+    {
+      "word": "dwelling",
+      "definition": ""
+    },
+    {
+      "word": "居住；住所",
+      "definition": ""
+    },
+    {
+      "word": "skycraper",
+      "definition": ""
+    },
+    {
+      "word": "摩天大楼",
+      "definition": ""
+    },
+    {
+      "word": "villa",
+      "definition": ""
+    },
+    {
+      "word": "乡村别墅",
+      "definition": ""
+    },
+    {
+      "word": "mansion",
+      "definition": ""
+    },
+    {
+      "word": "宅邸",
+      "definition": ""
+    },
+    {
+      "word": "hostel",
+      "definition": ""
+    },
+    {
+      "word": "接待所",
+      "definition": ""
+    },
+    {
+      "word": "lodge",
+      "definition": ""
+    },
+    {
+      "word": "租住；小屋",
+      "definition": ""
+    },
+    {
+      "word": "hut",
+      "definition": ""
+    },
+    {
+      "word": "小屋；篷房",
+      "definition": ""
+    },
+    {
+      "word": "cellar",
+      "definition": ""
+    },
+    {
+      "word": "地窖",
+      "definition": ""
+    },
+    {
+      "word": "cradle",
+      "definition": ""
+    },
+    {
+      "word": "摇篮",
+      "definition": ""
+    },
+    {
+      "word": "grid",
+      "definition": ""
+    },
+    {
+      "word": "栅栏；网格",
+      "definition": ""
+    },
+    {
+      "word": "corridor",
+      "definition": ""
+    },
+    {
+      "word": "走廊",
+      "definition": ""
+    },
+    {
+      "word": "stair",
+      "definition": ""
+    },
+    {
+      "word": "楼梯",
+      "definition": ""
+    },
+    {
+      "word": "staircase",
+      "definition": ""
+    },
+    {
+      "word": "storey",
+      "definition": ""
+    },
+    {
+      "word": "楼层",
+      "definition": ""
+    },
+    {
+      "word": "layer",
+      "definition": ""
+    },
+    {
+      "word": "层",
+      "definition": ""
+    },
+    {
+      "word": "escalator",
+      "definition": ""
+    },
+    {
+      "word": "滚梯",
+      "definition": ""
+    },
+    {
+      "word": "handrail",
+      "definition": ""
+    },
+    {
+      "word": "扶手",
+      "definition": ""
+    },
+    {
+      "word": "pillar",
+      "definition": ""
+    },
+    {
+      "word": "柱子",
+      "definition": ""
+    },
+    {
+      "word": "beam",
+      "definition": ""
+    },
+    {
+      "word": "能力束",
+      "definition": ""
+    },
+    {
+      "word": "vault",
+      "definition": ""
+    },
+    {
+      "word": "金库；保险库",
+      "definition": ""
+    },
+    {
+      "word": "chimney",
+      "definition": ""
+    },
+    {
+      "word": "烟囱",
+      "definition": ""
+    },
+    {
+      "word": "ceiling",
+      "definition": ""
+    },
+    {
+      "word": "天花板",
+      "definition": ""
+    },
+    {
+      "word": "lobby",
+      "definition": ""
+    },
+    {
+      "word": "大厅；前台；劝说",
+      "definition": ""
+    },
+    {
+      "word": "v",
+      "definition": ""
+    },
+    {
+      "word": "游说",
+      "definition": ""
+    },
+    {
+      "word": "bench",
+      "definition": ""
+    },
+    {
+      "word": "长凳",
+      "definition": ""
+    },
+    {
+      "word": "parlour",
+      "definition": ""
+    },
+    {
+      "word": "客厅",
+      "definition": ""
+    },
+    {
+      "word": "radiator",
+      "definition": ""
+    },
+    {
+      "word": "暖气设备",
+      "definition": ""
+    },
+    {
+      "word": "cabinet",
+      "definition": ""
+    },
+    {
+      "word": "橱柜；储物柜",
+      "definition": ""
+    },
+    {
+      "word": "balcony",
+      "definition": ""
+    },
+    {
+      "word": "阳台",
+      "definition": ""
+    },
+    {
+      "word": "terrace",
+      "definition": ""
+    },
+    {
+      "word": "露天平台",
+      "definition": ""
+    },
+    {
+      "word": "lavatory",
+      "definition": ""
+    },
+    {
+      "word": "厕所",
+      "definition": ""
+    },
+    {
+      "word": "toilet",
+      "definition": ""
+    },
+    {
+      "word": "basin",
+      "definition": ""
+    },
+    {
+      "word": "盆地",
+      "definition": ""
+    },
+    {
+      "word": "complex",
+      "definition": ""
+    },
+    {
+      "word": "综合体",
+      "definition": ""
+    },
+    {
+      "word": "booth",
+      "definition": ""
+    },
+    {
+      "word": "电话亭，小隔间",
+      "definition": ""
+    },
+    {
+      "word": "casino",
+      "definition": ""
+    },
+    {
+      "word": "赌场",
+      "definition": ""
+    },
+    {
+      "word": "外围的；外围设备",
+      "definition": ""
+    },
+    {
+      "word": "vicinity",
+      "definition": ""
+    },
+    {
+      "word": "附近地区",
+      "definition": ""
+    },
+    {
+      "word": "void",
+      "definition": ""
+    },
+    {
+      "word": "空白的；空虚",
+      "definition": ""
+    },
+    {
+      "word": "spacious",
+      "definition": ""
+    },
+    {
+      "word": "宽敞的",
+      "definition": ""
+    },
+    {
+      "word": "airtight",
+      "definition": ""
+    },
+    {
+      "word": "密封的",
+      "definition": ""
+    },
+    {
+      "word": "expanse",
+      "definition": ""
+    },
+    {
+      "word": "宽广；广阔",
+      "definition": ""
+    },
+    {
+      "word": "plaza",
+      "definition": ""
+    },
+    {
+      "word": "广场；购物中心",
+      "definition": ""
+    },
+    {
+      "word": "castle",
+      "definition": ""
+    },
+    {
+      "word": "城堡",
+      "definition": ""
+    },
+    {
+      "word": "mason",
+      "definition": ""
+    },
+    {
+      "word": "石匠；泥瓦匠",
+      "definition": ""
+    },
+    {
+      "word": "tile",
+      "definition": ""
+    },
+    {
+      "word": "瓦",
+      "definition": ""
+    },
+    {
+      "word": "brickwork",
+      "definition": ""
+    },
+    {
+      "word": "砖结构",
+      "definition": ""
+    },
+    {
+      "word": "hook",
+      "definition": ""
+    },
+    {
+      "word": "scaffold",
+      "definition": ""
+    },
+    {
+      "word": "crane",
+      "definition": ""
+    },
+    {
+      "word": "malfunction",
+      "definition": ""
+    },
+    {
+      "word": "发生故障",
+      "definition": ""
+    },
+    {
+      "word": "mend",
+      "definition": ""
+    },
+    {
+      "word": "修改",
+      "definition": ""
+    },
+    {
+      "word": "modify",
+      "definition": ""
+    },
+    {
+      "word": "稍作修改",
+      "definition": ""
+    },
+    {
+      "word": "trim",
+      "definition": ""
+    },
+    {
+      "word": "修剪",
+      "definition": ""
+    },
+    {
+      "word": "weld",
+      "definition": ""
+    },
+    {
+      "word": "焊接",
+      "definition": ""
+    },
+    {
+      "word": "saw",
+      "definition": ""
+    },
+    {
+      "word": "锯",
+      "definition": ""
+    },
+    {
+      "word": "screw",
+      "definition": ""
+    },
+    {
+      "word": "螺丝钉；螺旋桨",
+      "definition": ""
+    },
+    {
+      "word": "plumb",
+      "definition": ""
+    },
+    {
+      "word": "铅锤",
+      "definition": ""
+    },
+    {
+      "word": "viaduct",
+      "definition": ""
+    },
+    {
+      "word": "高架桥",
+      "definition": ""
+    },
+    {
+      "word": "span",
+      "definition": ""
+    },
+    {
+      "word": "跨距",
+      "definition": ""
+    },
+    {
+      "word": "水坝，控制",
+      "definition": ""
+    },
+    {
+      "word": "layout",
+      "definition": ""
+    },
+    {
+      "word": "设计；布置",
+      "definition": ""
+    },
+    {
+      "word": "exterior",
+      "definition": ""
+    },
+    {
+      "word": "外部；外部的",
+      "definition": ""
+    },
+    {
+      "word": "interior",
+      "definition": ""
+    },
+    {
+      "word": "内部；内部的",
+      "definition": ""
+    },
+    {
+      "word": "inward",
+      "definition": ""
+    },
+    {
+      "word": "内心；内向的",
+      "definition": ""
+    },
+    {
+      "word": "internal",
+      "definition": ""
+    },
+    {
+      "word": "内部的；自身的；国内的",
+      "definition": ""
+    }
+  ],
+  "Chapter 14": [
+    {
+      "word": "luggage",
+      "definition": ""
+    },
+    {
+      "word": "行李",
+      "definition": ""
+    },
+    {
+      "word": "v",
+      "definition": ""
+    },
+    {
+      "word": "voyage",
+      "definition": ""
+    },
+    {
+      "word": "航海，航行",
+      "definition": ""
+    },
+    {
+      "word": "aviation",
+      "definition": ""
+    },
+    {
+      "word": "航天",
+      "definition": ""
+    },
+    {
+      "word": "航空",
+      "definition": ""
+    },
+    {
+      "word": "safari",
+      "definition": ""
+    },
+    {
+      "word": "观兽游行",
+      "definition": ""
+    },
+    {
+      "word": "parade",
+      "definition": ""
+    },
+    {
+      "word": "游行；炫耀",
+      "definition": ""
+    },
+    {
+      "word": "haunt",
+      "definition": ""
+    },
+    {
+      "word": "常出没于",
+      "definition": ""
+    },
+    {
+      "word": "pyramid",
+      "definition": ""
+    },
+    {
+      "word": "金字塔",
+      "definition": ""
+    },
+    {
+      "word": "port",
+      "definition": ""
+    },
+    {
+      "word": "港口",
+      "definition": ""
+    },
+    {
+      "word": "visa",
+      "definition": ""
+    },
+    {
+      "word": "签证",
+      "definition": ""
+    },
+    {
+      "word": "helicopter",
+      "definition": ""
+    },
+    {
+      "word": "直升机",
+      "definition": ""
+    },
+    {
+      "word": "jet",
+      "definition": ""
+    },
+    {
+      "word": "喷射口",
+      "definition": ""
+    },
+    {
+      "word": "parachute",
+      "definition": ""
+    },
+    {
+      "word": "降落伞",
+      "definition": ""
+    },
+    {
+      "word": "pilot",
+      "definition": ""
+    },
+    {
+      "word": "飞行；航班",
+      "definition": ""
+    },
+    {
+      "word": "baggage",
+      "definition": ""
+    },
+    {
+      "word": "行李v",
+      "definition": ""
+    },
+    {
+      "word": "carry-on",
+      "definition": ""
+    },
+    {
+      "word": "小包",
+      "definition": ""
+    },
+    {
+      "word": "rack",
+      "definition": ""
+    },
+    {
+      "word": "搁物架；挂物架",
+      "definition": ""
+    },
+    {
+      "word": "freight",
+      "definition": ""
+    },
+    {
+      "word": "货运；货物",
+      "definition": ""
+    },
+    {
+      "word": "fare",
+      "definition": ""
+    },
+    {
+      "word": "车费",
+      "definition": ""
+    },
+    {
+      "word": "atlas",
+      "definition": ""
+    },
+    {
+      "word": "地图册；地图集",
+      "definition": ""
+    },
+    {
+      "word": "itinerary",
+      "definition": ""
+    },
+    {
+      "word": "路线；行程",
+      "definition": ""
+    },
+    {
+      "word": "intersection",
+      "definition": ""
+    },
+    {
+      "word": "十字路口；交叉路口",
+      "definition": ""
+    },
+    {
+      "word": "lane",
+      "definition": ""
+    },
+    {
+      "word": "小巷；车道",
+      "definition": ""
+    },
+    {
+      "word": "avenue",
+      "definition": ""
+    },
+    {
+      "word": "道路；途径",
+      "definition": ""
+    },
+    {
+      "word": "curb",
+      "definition": ""
+    },
+    {
+      "word": "起控制作用的物品",
+      "definition": ""
+    },
+    {
+      "word": "signpost",
+      "definition": ""
+    },
+    {
+      "word": "路标",
+      "definition": ""
+    },
+    {
+      "word": "truck",
+      "definition": ""
+    },
+    {
+      "word": "货车",
+      "definition": ""
+    },
+    {
+      "word": "lorry",
+      "definition": ""
+    },
+    {
+      "word": "卡车",
+      "definition": ""
+    },
+    {
+      "word": "van",
+      "definition": ""
+    },
+    {
+      "word": "厢式货车",
+      "definition": ""
+    },
+    {
+      "word": "carriage",
+      "definition": ""
+    },
+    {
+      "word": "四轮马车",
+      "definition": ""
+    },
+    {
+      "word": "wagon",
+      "definition": ""
+    },
+    {
+      "word": "车子；马车",
+      "definition": ""
+    },
+    {
+      "word": "tractor",
+      "definition": ""
+    },
+    {
+      "word": "拖拉机",
+      "definition": ""
+    },
+    {
+      "word": "gargage",
+      "definition": ""
+    },
+    {
+      "word": "汽车修理厂",
+      "definition": ""
+    },
+    {
+      "word": "wheel",
+      "definition": ""
+    },
+    {
+      "word": "方向盘，车轮",
+      "definition": ""
+    },
+    {
+      "word": "brake",
+      "definition": ""
+    },
+    {
+      "word": "车闸",
+      "definition": ""
+    },
+    {
+      "word": "tyre",
+      "definition": ""
+    },
+    {
+      "word": "轮胎",
+      "definition": ""
+    },
+    {
+      "word": "crew",
+      "definition": ""
+    },
+    {
+      "word": "全体工作人员",
+      "definition": ""
+    },
+    {
+      "word": "captain",
+      "definition": ""
+    },
+    {
+      "word": "船长",
+      "definition": ""
+    },
+    {
+      "word": "emergency",
+      "definition": ""
+    },
+    {
+      "word": "紧急事务",
+      "definition": ""
+    },
+    {
+      "word": "wreck",
+      "definition": ""
+    },
+    {
+      "word": "破坏",
+      "definition": ""
+    },
+    {
+      "word": "hazard",
+      "definition": ""
+    },
+    {
+      "word": "危险；使冒风险",
+      "definition": ""
+    },
+    {
+      "word": "dock",
+      "definition": ""
+    },
+    {
+      "word": "码头；船坞",
+      "definition": ""
+    },
+    {
+      "word": "submerge",
+      "definition": ""
+    },
+    {
+      "word": "浸没；掩盖",
+      "definition": ""
+    },
+    {
+      "word": "seaman",
+      "definition": ""
+    },
+    {
+      "word": "海员",
+      "definition": ""
+    },
+    {
+      "word": "carrier",
+      "definition": ""
+    },
+    {
+      "word": "航空母舰",
+      "definition": ""
+    },
+    {
+      "word": "steamer",
+      "definition": ""
+    },
+    {
+      "word": "汽船；轮船",
+      "definition": ""
+    },
+    {
+      "word": "liner",
+      "definition": ""
+    },
+    {
+      "word": "邮轮；科伦",
+      "definition": ""
+    },
+    {
+      "word": "vessel",
+      "definition": ""
+    },
+    {
+      "word": "舰",
+      "definition": ""
+    },
+    {
+      "word": "ferry",
+      "definition": ""
+    },
+    {
+      "word": "渡船；渡运",
+      "definition": ""
+    },
+    {
+      "word": "sail",
+      "definition": ""
+    },
+    {
+      "word": "航行",
+      "definition": ""
+    },
+    {
+      "word": "raft",
+      "definition": ""
+    },
+    {
+      "word": "木筏",
+      "definition": ""
+    },
+    {
+      "word": "canoe",
+      "definition": ""
+    },
+    {
+      "word": "独木舟",
+      "definition": ""
+    },
+    {
+      "word": "oar",
+      "definition": ""
+    },
+    {
+      "word": "桨",
+      "definition": ""
+    },
+    {
+      "word": "deck",
+      "definition": ""
+    },
+    {
+      "word": "甲板",
+      "definition": ""
+    },
+    {
+      "word": "turbine",
+      "definition": ""
+    },
+    {
+      "word": "涡轮机",
+      "definition": ""
+    },
+    {
+      "word": "propeller",
+      "definition": ""
+    },
+    {
+      "word": "螺旋桨",
+      "definition": ""
+    },
+    {
+      "word": "stern",
+      "definition": ""
+    },
+    {
+      "word": "船尾",
+      "definition": ""
+    },
+    {
+      "word": "embark",
+      "definition": ""
+    },
+    {
+      "word": "上船；开始做",
+      "definition": ""
+    },
+    {
+      "word": "canal",
+      "definition": ""
+    },
+    {
+      "word": "运河管道",
+      "definition": ""
+    },
+    {
+      "word": "ditch",
+      "definition": ""
+    },
+    {
+      "word": "沟渠；抛弃",
+      "definition": ""
+    },
+    {
+      "word": "locomotive",
+      "definition": ""
+    },
+    {
+      "word": "火车",
+      "definition": ""
+    },
+    {
+      "word": "tunnel",
+      "definition": ""
+    },
+    {
+      "word": "隧道",
+      "definition": ""
+    },
+    {
+      "word": "rail",
+      "definition": ""
+    },
+    {
+      "word": "栏杆",
+      "definition": ""
+    },
+    {
+      "word": "depart",
+      "definition": ""
+    },
+    {
+      "word": "启程离开",
+      "definition": ""
+    },
+    {
+      "word": "destination",
+      "definition": ""
+    },
+    {
+      "word": "目的地",
+      "definition": ""
+    },
+    {
+      "word": "lull",
+      "definition": ""
+    },
+    {
+      "word": "暂停",
+      "definition": ""
+    },
+    {
+      "word": "postage",
+      "definition": ""
+    },
+    {
+      "word": "邮费；邮资",
+      "definition": ""
+    },
+    {
+      "word": "stamp",
+      "definition": ""
+    },
+    {
+      "word": "邮票；印章",
+      "definition": ""
+    },
+    {
+      "word": "信封",
+      "definition": ""
+    },
+    {
+      "word": "mail",
+      "definition": ""
+    },
+    {
+      "word": "邮件",
+      "definition": ""
+    },
+    {
+      "word": "packet",
+      "definition": ""
+    },
+    {
+      "word": "包装盒",
+      "definition": ""
+    },
+    {
+      "word": "bind",
+      "definition": ""
+    },
+    {
+      "word": "捆绑",
+      "definition": ""
+    },
+    {
+      "word": "parcel",
+      "definition": ""
+    },
+    {
+      "word": "打包；包",
+      "definition": ""
+    },
+    {
+      "word": "transmit",
+      "definition": ""
+    },
+    {
+      "word": "传送；传播",
+      "definition": ""
+    },
+    {
+      "word": "transit",
+      "definition": ""
+    },
+    {
+      "word": "通过；运送",
+      "definition": ""
+    },
+    {
+      "word": "velocity",
+      "definition": ""
+    },
+    {
+      "word": "速度",
+      "definition": ""
+    }
+  ],
+  "Chapter15": [
+    {
+      "word": "authority",
+      "definition": ""
+    },
+    {
+      "word": "权威人士",
+      "definition": ""
+    },
+    {
+      "word": "conference",
+      "definition": ""
+    },
+    {
+      "word": "会议",
+      "definition": ""
+    },
+    {
+      "word": "delegation",
+      "definition": ""
+    },
+    {
+      "word": "代表团",
+      "definition": ""
+    },
+    {
+      "word": "republic",
+      "definition": ""
+    },
+    {
+      "word": "共和国",
+      "definition": ""
+    },
+    {
+      "word": "marxism",
+      "definition": ""
+    },
+    {
+      "word": "马克思主义",
+      "definition": ""
+    },
+    {
+      "word": "socialism",
+      "definition": ""
+    },
+    {
+      "word": "社会主义",
+      "definition": ""
+    },
+    {
+      "word": "communism",
+      "definition": ""
+    },
+    {
+      "word": "共产主义",
+      "definition": ""
+    },
+    {
+      "word": "regime",
+      "definition": ""
+    },
+    {
+      "word": "统治制度；政权",
+      "definition": ""
+    },
+    {
+      "word": "hierarchy",
+      "definition": ""
+    },
+    {
+      "word": "等级制度；通知制度",
+      "definition": ""
+    },
+    {
+      "word": "democracy",
+      "definition": ""
+    },
+    {
+      "word": "民主",
+      "definition": ""
+    },
+    {
+      "word": "bureaucracy",
+      "definition": ""
+    },
+    {
+      "word": "官僚制度；官僚作风",
+      "definition": ""
+    },
+    {
+      "word": "egalitarian",
+      "definition": ""
+    },
+    {
+      "word": "平等主义的",
+      "definition": ""
+    },
+    {
+      "word": "materialism",
+      "definition": ""
+    },
+    {
+      "word": "唯物主义",
+      "definition": ""
+    },
+    {
+      "word": "revolution",
+      "definition": ""
+    },
+    {
+      "word": "改革；革命",
+      "definition": ""
+    },
+    {
+      "word": "conservative",
+      "definition": ""
+    },
+    {
+      "word": "保守的；保守党",
+      "definition": ""
+    },
+    {
+      "word": "meltdown",
+      "definition": ""
+    },
+    {
+      "word": "崩溃",
+      "definition": ""
+    },
+    {
+      "word": "municipal",
+      "definition": ""
+    },
+    {
+      "word": "市政的；地方政府的",
+      "definition": ""
+    },
+    {
+      "word": "neutral",
+      "definition": ""
+    },
+    {
+      "word": "中立的",
+      "definition": ""
+    },
+    {
+      "word": "bilateral",
+      "definition": ""
+    },
+    {
+      "word": "双边的",
+      "definition": ""
+    },
+    {
+      "word": "arena",
+      "definition": ""
+    },
+    {
+      "word": "竞技场；运动场",
+      "definition": ""
+    },
+    {
+      "word": "banner",
+      "definition": ""
+    },
+    {
+      "word": "标语；横幅",
+      "definition": ""
+    },
+    {
+      "word": "premier",
+      "definition": ""
+    },
+    {
+      "word": "首要的；第一的",
+      "definition": ""
+    },
+    {
+      "word": "secretary",
+      "definition": ""
+    },
+    {
+      "word": "秘书；书记员",
+      "definition": ""
+    },
+    {
+      "word": "parliament",
+      "definition": ""
+    },
+    {
+      "word": "议会过会",
+      "definition": ""
+    },
+    {
+      "word": "senate",
+      "definition": ""
+    },
+    {
+      "word": "参议院",
+      "definition": ""
+    },
+    {
+      "word": "headquarters",
+      "definition": ""
+    },
+    {
+      "word": "总部；总公司",
+      "definition": ""
+    },
+    {
+      "word": "mayor",
+      "definition": ""
+    },
+    {
+      "word": "市长",
+      "definition": ""
+    },
+    {
+      "word": "bureau",
+      "definition": ""
+    },
+    {
+      "word": "，",
+      "definition": ""
+    },
+    {
+      "word": "署；处",
+      "definition": ""
+    },
+    {
+      "word": "控制利用",
+      "definition": ""
+    },
+    {
+      "word": "consortium",
+      "definition": ""
+    },
+    {
+      "word": "财团",
+      "definition": ""
+    },
+    {
+      "word": "civil",
+      "definition": ""
+    },
+    {
+      "word": "公民的；国内的",
+      "definition": ""
+    },
+    {
+      "word": "puppet",
+      "definition": ""
+    },
+    {
+      "word": "傀儡；玩偶",
+      "definition": ""
+    },
+    {
+      "word": "crown",
+      "definition": ""
+    },
+    {
+      "word": "王座",
+      "definition": ""
+    },
+    {
+      "word": "wreath",
+      "definition": ""
+    },
+    {
+      "word": "花环；花冠",
+      "definition": ""
+    },
+    {
+      "word": "liberty",
+      "definition": ""
+    },
+    {
+      "word": "自由",
+      "definition": ""
+    },
+    {
+      "word": "slum",
+      "definition": ""
+    },
+    {
+      "word": "贫民窟",
+      "definition": ""
+    },
+    {
+      "word": "refuge",
+      "definition": ""
+    },
+    {
+      "word": "避难；庇护",
+      "definition": ""
+    },
+    {
+      "word": "asylum",
+      "definition": ""
+    },
+    {
+      "word": "庇护",
+      "definition": ""
+    },
+    {
+      "word": "clan",
+      "definition": ""
+    },
+    {
+      "word": "宗族；",
+      "definition": ""
+    },
+    {
+      "word": "franchise",
+      "definition": ""
+    },
+    {
+      "word": "特许权",
+      "definition": ""
+    },
+    {
+      "word": "nominate",
+      "definition": ""
+    },
+    {
+      "word": "提名；任命",
+      "definition": ""
+    },
+    {
+      "word": "succession",
+      "definition": ""
+    },
+    {
+      "word": "连续继承",
+      "definition": ""
+    },
+    {
+      "word": "outlook",
+      "definition": ""
+    },
+    {
+      "word": "观点；展望",
+      "definition": ""
+    },
+    {
+      "word": "ethic",
+      "definition": ""
+    },
+    {
+      "word": "行为准则",
+      "definition": ""
+    },
+    {
+      "word": "hint",
+      "definition": ""
+    },
+    {
+      "word": "暗示；提示",
+      "definition": ""
+    },
+    {
+      "word": "declare",
+      "definition": ""
+    },
+    {
+      "word": "宣布；宣告",
+      "definition": ""
+    },
+    {
+      "word": "proclaim",
+      "definition": ""
+    },
+    {
+      "word": "声明",
+      "definition": ""
+    }
+  ],
+  "Chapter16": [
+    {
+      "word": "currency",
+      "definition": ""
+    },
+    {
+      "word": "货币",
+      "definition": ""
+    },
+    {
+      "word": "merchant",
+      "definition": ""
+    },
+    {
+      "word": "商人；商业的",
+      "definition": ""
+    },
+    {
+      "word": "endow",
+      "definition": ""
+    },
+    {
+      "word": "捐赠；赋予",
+      "definition": ""
+    },
+    {
+      "word": "slogan",
+      "definition": ""
+    },
+    {
+      "word": "标语；口号",
+      "definition": ""
+    },
+    {
+      "word": "lease",
+      "definition": ""
+    },
+    {
+      "word": "租约；出租",
+      "definition": ""
+    },
+    {
+      "word": "grocery",
+      "definition": ""
+    },
+    {
+      "word": "食品杂货店",
+      "definition": ""
+    },
+    {
+      "word": "voucher",
+      "definition": ""
+    },
+    {
+      "word": "代金券",
+      "definition": ""
+    },
+    {
+      "word": "coupon",
+      "definition": ""
+    },
+    {
+      "word": "优惠券",
+      "definition": ""
+    },
+    {
+      "word": "receipt",
+      "definition": ""
+    },
+    {
+      "word": "收据；收到",
+      "definition": ""
+    },
+    {
+      "word": "invoice",
+      "definition": ""
+    },
+    {
+      "word": "发票",
+      "definition": ""
+    },
+    {
+      "word": "levy",
+      "definition": ""
+    },
+    {
+      "word": "税款；征收",
+      "definition": ""
+    },
+    {
+      "word": "tariff",
+      "definition": ""
+    },
+    {
+      "word": "关税；",
+      "definition": ""
+    },
+    {
+      "word": "gross",
+      "definition": ""
+    },
+    {
+      "word": "毛的；总的",
+      "definition": ""
+    },
+    {
+      "word": "gross domestic product",
+      "definition": ""
+    },
+    {
+      "word": "recession",
+      "definition": ""
+    },
+    {
+      "word": "经济衰退",
+      "definition": ""
+    },
+    {
+      "word": "赤字；逆差",
+      "definition": ""
+    },
+    {
+      "word": "inflation",
+      "definition": ""
+    },
+    {
+      "word": "通货膨胀",
+      "definition": ""
+    },
+    {
+      "word": "deflation",
+      "definition": ""
+    },
+    {
+      "word": "通货紧缩",
+      "definition": ""
+    },
+    {
+      "word": "dwindle",
+      "definition": ""
+    },
+    {
+      "word": "缩小；减少",
+      "definition": ""
+    },
+    {
+      "word": "downsize",
+      "definition": ""
+    },
+    {
+      "word": "使精简",
+      "definition": ""
+    },
+    {
+      "word": "increment",
+      "definition": ""
+    },
+    {
+      "word": "增量",
+      "definition": ""
+    },
+    {
+      "word": "escalate",
+      "definition": ""
+    },
+    {
+      "word": "升级",
+      "definition": ""
+    },
+    {
+      "word": "influx",
+      "definition": ""
+    },
+    {
+      "word": "流入；涌进",
+      "definition": ""
+    },
+    {
+      "word": "adequate",
+      "definition": ""
+    },
+    {
+      "word": "充足的；足够的",
+      "definition": ""
+    },
+    {
+      "word": "spare",
+      "definition": ""
+    },
+    {
+      "word": "多余的；空闲的",
+      "definition": ""
+    },
+    {
+      "word": "redundant",
+      "definition": ""
+    },
+    {
+      "word": "多余的；被裁剪的",
+      "definition": ""
+    },
+    {
+      "word": "enterprise",
+      "definition": ""
+    },
+    {
+      "word": "事业；企业",
+      "definition": ""
+    },
+    {
+      "word": "实体；",
+      "definition": ""
+    },
+    {
+      "word": "cargo",
+      "definition": ""
+    },
+    {
+      "word": "货物",
+      "definition": ""
+    },
+    {
+      "word": "guarantee",
+      "definition": ""
+    },
+    {
+      "word": "担保；确保",
+      "definition": ""
+    },
+    {
+      "word": "negotiation",
+      "definition": ""
+    },
+    {
+      "word": "洽谈",
+      "definition": ""
+    },
+    {
+      "word": "auction",
+      "definition": ""
+    },
+    {
+      "word": "拍卖",
+      "definition": ""
+    },
+    {
+      "word": "bid",
+      "definition": ""
+    },
+    {
+      "word": "出价；投标",
+      "definition": ""
+    },
+    {
+      "word": "dump",
+      "definition": ""
+    },
+    {
+      "word": "丢弃；倾倒",
+      "definition": ""
+    },
+    {
+      "word": "quota",
+      "definition": ""
+    },
+    {
+      "word": "配额；限额",
+      "definition": ""
+    },
+    {
+      "word": "devidend",
+      "definition": ""
+    },
+    {
+      "word": "股息；红利",
+      "definition": ""
+    },
+    {
+      "word": "deposit",
+      "definition": ""
+    },
+    {
+      "word": "存款；押金",
+      "definition": ""
+    },
+    {
+      "word": "instalment",
+      "definition": ""
+    },
+    {
+      "word": "一期付款",
+      "definition": ""
+    },
+    {
+      "word": "cheque",
+      "definition": ""
+    },
+    {
+      "word": "支票",
+      "definition": ""
+    },
+    {
+      "word": "copper",
+      "definition": ""
+    },
+    {
+      "word": "铜；警察",
+      "definition": ""
+    },
+    {
+      "word": "estate",
+      "definition": ""
+    },
+    {
+      "word": "地产；遗产",
+      "definition": ""
+    },
+    {
+      "word": "legacy",
+      "definition": ""
+    },
+    {
+      "word": "遗产",
+      "definition": ""
+    },
+    {
+      "word": "incentive",
+      "definition": ""
+    },
+    {
+      "word": "刺激；激励",
+      "definition": ""
+    },
+    {
+      "word": "n",
+      "definition": ""
+    },
+    {
+      "word": "prompt",
+      "definition": ""
+    },
+    {
+      "word": "促进；迅速的",
+      "definition": ""
+    },
+    {
+      "word": "reimburse",
+      "definition": ""
+    },
+    {
+      "word": "赔偿；补偿",
+      "definition": ""
+    },
+    {
+      "word": "payroll",
+      "definition": ""
+    },
+    {
+      "word": "工资名单",
+      "definition": ""
+    },
+    {
+      "word": "remuneration",
+      "definition": ""
+    },
+    {
+      "word": "报酬",
+      "definition": ""
+    },
+    {
+      "word": "subsidy",
+      "definition": ""
+    },
+    {
+      "word": "津贴；补贴",
+      "definition": ""
+    },
+    {
+      "word": "undertake",
+      "definition": ""
+    },
+    {
+      "word": "许诺；保证；承担",
+      "definition": ""
+    },
+    {
+      "word": "personnel",
+      "definition": ""
+    },
+    {
+      "word": "人事部门",
+      "definition": ""
+    },
+    {
+      "word": "clerk",
+      "definition": ""
+    },
+    {
+      "word": "店员；接待员",
+      "definition": ""
+    },
+    {
+      "word": "discharge",
+      "definition": ""
+    },
+    {
+      "word": "卸货；解雇",
+      "definition": ""
+    },
+    {
+      "word": "sack",
+      "definition": ""
+    },
+    {
+      "word": "开除",
+      "definition": ""
+    },
+    {
+      "word": "sanction",
+      "definition": ""
+    },
+    {
+      "word": "制裁；批准",
+      "definition": ""
+    },
+    {
+      "word": "chapte 17",
+      "definition": ""
+    },
+    {
+      "word": "treaty",
+      "definition": ""
+    },
+    {
+      "word": "条例；协议",
+      "definition": ""
+    },
+    {
+      "word": "protocol",
+      "definition": ""
+    },
+    {
+      "word": "协议；议定书",
+      "definition": ""
+    },
+    {
+      "word": "benchmark",
+      "definition": ""
+    },
+    {
+      "word": "基准；水准点",
+      "definition": ""
+    },
+    {
+      "word": "criteria/criterion",
+      "definition": ""
+    },
+    {
+      "word": "标准；准则",
+      "definition": ""
+    },
+    {
+      "word": "mandatory",
+      "definition": ""
+    },
+    {
+      "word": "法定的；强制的",
+      "definition": ""
+    },
+    {
+      "word": "potent",
+      "definition": ""
+    },
+    {
+      "word": "有效的；强力的",
+      "definition": ""
+    },
+    {
+      "word": "court",
+      "definition": ""
+    },
+    {
+      "word": "，",
+      "definition": ""
+    },
+    {
+      "word": "法院",
+      "definition": ""
+    },
+    {
+      "word": "通过（法律）",
+      "definition": ""
+    },
+    {
+      "word": "legislate",
+      "definition": ""
+    },
+    {
+      "word": "立法",
+      "definition": ""
+    },
+    {
+      "word": "prosecute",
+      "definition": ""
+    },
+    {
+      "word": "检举；起诉",
+      "definition": ""
+    },
+    {
+      "word": "condemn",
+      "definition": ""
+    },
+    {
+      "word": "谴责；指责",
+      "definition": ""
+    },
+    {
+      "word": "boycott",
+      "definition": ""
+    },
+    {
+      "word": "抵制购买；拒绝购买",
+      "definition": ""
+    },
+    {
+      "word": "mediate",
+      "definition": ""
+    },
+    {
+      "word": "调节；斡旋",
+      "definition": ""
+    },
+    {
+      "word": "plea",
+      "definition": ""
+    },
+    {
+      "word": "辩解；借口；请求",
+      "definition": ""
+    },
+    {
+      "word": "mutter",
+      "definition": ""
+    },
+    {
+      "word": "轻声细语；小声抱怨",
+      "definition": ""
+    },
+    {
+      "word": "mute",
+      "definition": ""
+    },
+    {
+      "word": "缄默的；哑的",
+      "definition": ""
+    },
+    {
+      "word": "jury",
+      "definition": ""
+    },
+    {
+      "word": "陪审团",
+      "definition": ""
+    },
+    {
+      "word": "sentence",
+      "definition": ""
+    },
+    {
+      "word": "判决；宣判",
+      "definition": ""
+    },
+    {
+      "word": "jail",
+      "definition": ""
+    },
+    {
+      "word": "监狱；监狱",
+      "definition": ""
+    },
+    {
+      "word": "restrain",
+      "definition": ""
+    },
+    {
+      "word": "抑制；制止",
+      "definition": ""
+    },
+    {
+      "word": "sin",
+      "definition": ""
+    },
+    {
+      "word": "罪孽；",
+      "definition": ""
+    },
+    {
+      "word": "vice",
+      "definition": ""
+    },
+    {
+      "word": "恶行；缺点",
+      "definition": ""
+    },
+    {
+      "word": "bribe",
+      "definition": ""
+    },
+    {
+      "word": "贿赂",
+      "definition": ""
+    },
+    {
+      "word": "pirate",
+      "definition": ""
+    },
+    {
+      "word": "海盗",
+      "definition": ""
+    },
+    {
+      "word": "sigma",
+      "definition": ""
+    },
+    {
+      "word": "耻辱；骂名",
+      "definition": ""
+    },
+    {
+      "word": "liar",
+      "definition": ""
+    },
+    {
+      "word": "说谎的人",
+      "definition": ""
+    },
+    {
+      "word": "fraud",
+      "definition": ""
+    },
+    {
+      "word": "骗子；赝品",
+      "definition": ""
+    },
+    {
+      "word": "confess",
+      "definition": ""
+    },
+    {
+      "word": "供认；忏悔",
+      "definition": ""
+    },
+    {
+      "word": "succumb",
+      "definition": ""
+    },
+    {
+      "word": "服从；屈服",
+      "definition": ""
+    },
+    {
+      "word": "accredit",
+      "definition": ""
+    },
+    {
+      "word": "归功于；委任",
+      "definition": ""
+    },
+    {
+      "word": "anonymous",
+      "definition": ""
+    },
+    {
+      "word": "匿名的",
+      "definition": ""
+    },
+    {
+      "word": "routine",
+      "definition": ""
+    },
+    {
+      "word": "例行公事；惯例的",
+      "definition": ""
+    }
+  ],
+  "Chapter 18": [
+    {
+      "word": "bombard/bomb",
+      "definition": ""
+    },
+    {
+      "word": "/",
+      "definition": "炸弹"
+    },
+    {
+      "word": "raid",
+      "definition": ""
+    },
+    {
+      "word": "突袭；突然搜查",
+      "definition": ""
+    },
+    {
+      "word": "enormity",
+      "definition": ""
+    },
+    {
+      "word": "巨大；滔天大罪",
+      "definition": ""
+    },
+    {
+      "word": "the enormity of duty",
+      "definition": ""
+    },
+    {
+      "word": "blast",
+      "definition": ""
+    },
+    {
+      "word": "爆炸；",
+      "definition": ""
+    },
+    {
+      "word": "n/v",
+      "definition": ""
+    },
+    {
+      "word": "twinkle",
+      "definition": ""
+    },
+    {
+      "word": "闪烁；闪耀",
+      "definition": ""
+    },
+    {
+      "word": "missile",
+      "definition": ""
+    },
+    {
+      "word": "导弹",
+      "definition": ""
+    },
+    {
+      "word": "pistol",
+      "definition": ""
+    },
+    {
+      "word": "手枪",
+      "definition": ""
+    },
+    {
+      "word": "rifle",
+      "definition": ""
+    },
+    {
+      "word": "步枪",
+      "definition": ""
+    },
+    {
+      "word": "bullet",
+      "definition": ""
+    },
+    {
+      "word": "子弹；枪弹",
+      "definition": ""
+    },
+    {
+      "word": "deflect",
+      "definition": ""
+    },
+    {
+      "word": "偏转；转移",
+      "definition": ""
+    },
+    {
+      "word": "glitter",
+      "definition": ""
+    },
+    {
+      "word": "闪烁；闪现",
+      "definition": ""
+    },
+    {
+      "word": "bow",
+      "definition": ""
+    },
+    {
+      "word": "弓；蝴蝶结",
+      "definition": ""
+    },
+    {
+      "word": "spear",
+      "definition": ""
+    },
+    {
+      "word": "矛；标枪",
+      "definition": ""
+    },
+    {
+      "word": "helmet",
+      "definition": ""
+    },
+    {
+      "word": "头盔",
+      "definition": ""
+    },
+    {
+      "word": "shield",
+      "definition": ""
+    },
+    {
+      "word": "盾；防护物",
+      "definition": ""
+    },
+    {
+      "word": "deploy",
+      "definition": ""
+    },
+    {
+      "word": "部署",
+      "definition": ""
+    },
+    {
+      "word": "punch",
+      "definition": ""
+    },
+    {
+      "word": "打孔；拳打",
+      "definition": ""
+    },
+    {
+      "word": "v/n",
+      "definition": ""
+    },
+    {
+      "word": "chop",
+      "definition": ""
+    },
+    {
+      "word": "切碎；劈",
+      "definition": ""
+    },
+    {
+      "word": "stab",
+      "definition": ""
+    },
+    {
+      "word": "刺；戳",
+      "definition": ""
+    },
+    {
+      "word": "plight",
+      "definition": ""
+    },
+    {
+      "word": "困境；誓约",
+      "definition": ""
+    },
+    {
+      "word": "pitfall",
+      "definition": ""
+    },
+    {
+      "word": "陷阱；危险",
+      "definition": ""
+    },
+    {
+      "word": "destitute",
+      "definition": ""
+    },
+    {
+      "word": "赤贫的；一无所有的；缺乏的",
+      "definition": ""
+    },
+    {
+      "word": "famine",
+      "definition": ""
+    },
+    {
+      "word": "饥荒",
+      "definition": ""
+    },
+    {
+      "word": "starve",
+      "definition": ""
+    },
+    {
+      "word": "挨饿；饿死",
+      "definition": ""
+    },
+    {
+      "word": "deprive",
+      "definition": ""
+    },
+    {
+      "word": "剥夺",
+      "definition": ""
+    },
+    {
+      "word": "threat",
+      "definition": ""
+    },
+    {
+      "word": "威胁；恐吓",
+      "definition": ""
+    },
+    {
+      "word": "trespass",
+      "definition": ""
+    },
+    {
+      "word": "非法入侵；罪过",
+      "definition": ""
+    },
+    {
+      "word": "assault",
+      "definition": ""
+    },
+    {
+      "word": "攻击；猛攻",
+      "definition": ""
+    },
+    {
+      "word": "siege",
+      "definition": ""
+    },
+    {
+      "word": "包围；围攻",
+      "definition": ""
+    },
+    {
+      "word": "halt",
+      "definition": ""
+    },
+    {
+      "word": "停止；停住",
+      "definition": ""
+    },
+    {
+      "word": "deter",
+      "definition": ""
+    },
+    {
+      "word": "阻止；威慑住",
+      "definition": ""
+    },
+    {
+      "word": "revolt",
+      "definition": ""
+    },
+    {
+      "word": "叛乱；反抗",
+      "definition": ""
+    },
+    {
+      "word": "treason",
+      "definition": ""
+    },
+    {
+      "word": "叛国罪；通敌罪",
+      "definition": ""
+    },
+    {
+      "word": "rebel",
+      "definition": ""
+    },
+    {
+      "word": "反抗；造反；叛徒",
+      "definition": ""
+    },
+    {
+      "word": "v/n",
+      "definition": ""
+    },
+    {
+      "word": "traitor",
+      "definition": ""
+    },
+    {
+      "word": "叛徒；卖国",
+      "definition": ""
+    },
+    {
+      "word": "patriot",
+      "definition": ""
+    },
+    {
+      "word": "爱国者",
+      "definition": ""
+    },
+    {
+      "word": "terrible",
+      "definition": ""
+    },
+    {
+      "word": "糟糕的",
+      "definition": ""
+    },
+    {
+      "word": "terrific",
+      "definition": ""
+    },
+    {
+      "word": "极好的；很大的",
+      "definition": ""
+    },
+    {
+      "word": "horrible",
+      "definition": ""
+    },
+    {
+      "word": "可怕的；恐怖的",
+      "definition": ""
+    },
+    {
+      "word": "dread",
+      "definition": ""
+    },
+    {
+      "word": "极为害怕；恐惧",
+      "definition": ""
+    },
+    {
+      "word": "tension",
+      "definition": ""
+    },
+    {
+      "word": "紧张；拉紧状态",
+      "definition": ""
+    },
+    {
+      "word": "turbulent",
+      "definition": ""
+    },
+    {
+      "word": "动荡的；混乱的",
+      "definition": ""
+    },
+    {
+      "word": "turmoil",
+      "definition": ""
+    },
+    {
+      "word": "混乱；骚乱",
+      "definition": ""
+    },
+    {
+      "word": "scenario",
+      "definition": ""
+    },
+    {
+      "word": "剧本",
+      "definition": ""
+    },
+    {
+      "word": "rein",
+      "definition": ""
+    },
+    {
+      "word": "控制权；管束",
+      "definition": ""
+    },
+    {
+      "word": "tactic",
+      "definition": ""
+    },
+    {
+      "word": "策略；战术",
+      "definition": ""
+    },
+    {
+      "word": "manoeuvre",
+      "definition": ""
+    },
+    {
+      "word": "oblige",
+      "definition": ""
+    },
+    {
+      "word": "迫使；强迫",
+      "definition": ""
+    },
+    {
+      "word": "might",
+      "definition": ""
+    },
+    {
+      "word": "力量；威力",
+      "definition": ""
+    },
+    {
+      "word": "mitigate",
+      "definition": ""
+    },
+    {
+      "word": "减轻；缓和",
+      "definition": ""
+    },
+    {
+      "word": "野蛮的；野蛮人",
+      "definition": ""
+    },
+    {
+      "word": "foul",
+      "definition": ""
+    },
+    {
+      "word": "恶臭的；恶劣的",
+      "definition": ""
+    },
+    {
+      "word": "devil",
+      "definition": ""
+    },
+    {
+      "word": "魔鬼；恶棍",
+      "definition": ""
+    },
+    {
+      "word": "execute",
+      "definition": ""
+    },
+    {
+      "word": "实行；执行；处死",
+      "definition": ""
+    },
+    {
+      "word": "casualty",
+      "definition": ""
+    },
+    {
+      "word": "伤亡人员",
+      "definition": ""
+    },
+    {
+      "word": "tomb",
+      "definition": ""
+    },
+    {
+      "word": "坟墓；",
+      "definition": ""
+    },
+    {
+      "word": "hell",
+      "definition": ""
+    },
+    {
+      "word": "地狱",
+      "definition": ""
+    },
+    {
+      "word": "devastate",
+      "definition": ""
+    },
+    {
+      "word": "peril",
+      "definition": ""
+    },
+    {
+      "word": "重大危险；险情",
+      "definition": ""
+    },
+    {
+      "word": "collapse",
+      "definition": ""
+    },
+    {
+      "word": "倒塌；崩溃",
+      "definition": ""
+    },
+    {
+      "word": "torture",
+      "definition": ""
+    },
+    {
+      "word": "拷问；痛苦",
+      "definition": ""
+    },
+    {
+      "word": "humiliate",
+      "definition": ""
+    },
+    {
+      "word": "羞辱v",
+      "definition": ""
+    },
+    {
+      "word": "interfere",
+      "definition": ""
+    },
+    {
+      "word": "干涉；妨碍",
+      "definition": ""
+    },
+    {
+      "word": "surrender",
+      "definition": ""
+    },
+    {
+      "word": "投降；放弃",
+      "definition": ""
+    },
+    {
+      "word": "triumph",
+      "definition": ""
+    },
+    {
+      "word": "胜利；获得胜利",
+      "definition": ""
+    },
+    {
+      "word": "capture",
+      "definition": ""
+    },
+    {
+      "word": "战利品；捕获；夺得",
+      "definition": ""
+    },
+    {
+      "word": "statue",
+      "definition": ""
+    },
+    {
+      "word": "patrol",
+      "definition": ""
+    },
+    {
+      "word": "巡逻；巡查",
+      "definition": ""
+    },
+    {
+      "word": "nv",
+      "definition": ""
+    },
+    {
+      "word": "camouflage",
+      "definition": ""
+    },
+    {
+      "word": "伪装",
+      "definition": ""
+    },
+    {
+      "word": "nv",
+      "definition": ""
+    },
+    {
+      "word": "burrow",
+      "definition": ""
+    },
+    {
+      "word": "地道；地洞",
+      "definition": ""
+    },
+    {
+      "word": "spy",
+      "definition": ""
+    },
+    {
+      "word": "间谍；特务",
+      "definition": ""
+    },
+    {
+      "word": "scout",
+      "definition": ""
+    },
+    {
+      "word": "侦查员；侦查；",
+      "definition": ""
+    },
+    {
+      "word": "general",
+      "definition": ""
+    },
+    {
+      "word": "将军",
+      "definition": ""
+    },
+    {
+      "word": "soldier",
+      "definition": ""
+    },
+    {
+      "word": "士兵；战士",
+      "definition": ""
+    },
+    {
+      "word": "veteran",
+      "definition": ""
+    },
+    {
+      "word": "老手；老兵",
+      "definition": ""
+    }
+  ]
+}

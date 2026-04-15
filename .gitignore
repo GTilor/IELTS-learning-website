@@ -1,0 +1,9 @@
+.DS_Store
+__pycache__/
+dashboard/__pycache__/
+.~*.xlsx
+*.bak_*
+生词表.xlsx
+雅思题目.xlsx
+IELTS_Study_Plan_GTilor.md
+README.local.md

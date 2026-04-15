@@ -1,0 +1,87 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>IELTS 词汇实验室 | GTilor</title>
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;600;700&family=Plus+Jakarta+Sans:wght@400;600;700&family=JetBrains+Mono:wght@400;700&display=swap" rel="stylesheet">
+    <script src="https://unpkg.com/lucide@latest"></script>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <div class="container">
+        <header class="glass-panel main-header">
+            <div class="header-content">
+                <div class="logo-area">
+                    <h1><i data-lucide="languages" class="logo-icon"></i> <span>IELTS</span> Lexicon</h1>
+                    <p class="subtitle">Vocabulary Activation OS • Target 7.5+</p>
+                </div>
+                <div class="sync-status" id="sync-status-container">
+                    <span class="status-dot"></span>
+                    <span id="last-sync-time">Checking sync status...</span>
+                </div>
+            </div>
+        </header>
+
+        <section class="stats-grid">
+            <div class="stat-card glass-panel">
+                <i data-lucide="book-open"></i>
+                <div class="stat-value" id="stat-total-words">0</div>
+                <div class="stat-label">TOTAL LIST</div>
+            </div>
+            <div class="stat-card glass-panel">
+                <i data-lucide="layers"></i>
+                <div class="stat-value" id="stat-chapters">0</div>
+                <div class="stat-label">CHAPTERS</div>
+            </div>
+            <div class="stat-card glass-panel highlight">
+                <i data-lucide="target"></i>
+                <div class="stat-value">Band 7.5+</div>
+                <div class="stat-label">OBJECTIVE</div>
+            </div>
+        </section>
+
+        <section class="glass-panel active-recall-section">
+            <div class="section-header">
+                <h2><i data-lucide="graduation-cap"></i> Speaking & Writing Challenge</h2>
+            </div>
+            <p id="speaking-prompt" class="prompt-text">
+                "Initiate vocabulary activation by generating a customized practice prompt..."
+            </p>
+            <button class="btn-primary" onclick="generatePrompt()"><i data-lucide="sparkles"></i> Generate New Challenge</button>
+        </section>
+
+        <div class="main-layout">
+            <aside class="glass-panel">
+                <h3 class="aside-title"><i data-lucide="list"></i> CHAPTERS</h3>
+                <ul class="chapter-list" id="chapter-list">
+                    <!-- Chapters will be loaded here -->
+                </ul>
+            </aside>
+
+            <main class="content-area">
+                <div class="sticky-header">
+                    <div class="search-wrapper">
+                        <i data-lucide="search" class="search-icon"></i>
+                        <input type="text" class="search-bar" placeholder="Search keywords, notes, or symbols..." id="search-input">
+                    </div>
+                    <p id="tts-status" class="tts-status">美式发音初始化中...</p>
+                </div>
+                
+                <h2 id="current-chapter-title" class="chapter-display-title">ALL VOCABULARY</h2>
+                <div class="word-grid" id="word-grid">
+                    <!-- Word cards will be loaded here -->
+                </div>
+            </main>
+        </div>
+    </div>
+
+    <!-- Background Decoration -->
+    <div style="position: fixed; top: 0; left: 0; width: 100%; height: 100%; z-index: -1; pointer-events: none; opacity: 0.15; background-image: url('https://www.transparenttextures.com/patterns/cubes.png');"></div>
+
+    <script src="script.js"></script>
+    <script>
+        lucide.createIcons();
+    </script>
+</body>
+</html>
