@@ -4,17 +4,21 @@ import os
 import sys
 import time
 import shutil
+from pathlib import Path
 from openpyxl import load_workbook
 
-# 配置路径
-EXCEL_PATH_1 = '/Users/liyuguo/Downloads/个人资料/英语学习/生词表.xlsx'
-EXCEL_PATH_2 = '/Users/liyuguo/Downloads/个人资料/英语学习/雅思题目.xlsx'
-OUTPUT_JS = '/Users/liyuguo/Downloads/个人资料/英语学习/dashboard/script.js'
-DOCS_DIR = '/Users/liyuguo/Downloads/个人资料/英语学习/docs'
-DOCS_JS = '/Users/liyuguo/Downloads/个人资料/英语学习/docs/script.js'
-SOURCE_INDEX = '/Users/liyuguo/Downloads/个人资料/英语学习/dashboard/index.html'
-SOURCE_CSS = '/Users/liyuguo/Downloads/个人资料/英语学习/dashboard/styles.css'
-SOURCE_VOCAB_JSON = '/Users/liyuguo/Downloads/个人资料/英语学习/dashboard/vocabulary.json'
+# 基于仓库根目录推导路径，避免目录迁移后脚本失效
+REPO_ROOT = Path(__file__).resolve().parents[1]
+DASHBOARD_DIR = REPO_ROOT / "dashboard"
+DOCS_DIR = REPO_ROOT / "docs"
+
+EXCEL_PATH_1 = REPO_ROOT / "生词表.xlsx"
+EXCEL_PATH_2 = REPO_ROOT / "雅思题目.xlsx"
+OUTPUT_JS = DASHBOARD_DIR / "script.js"
+DOCS_JS = DOCS_DIR / "script.js"
+SOURCE_INDEX = DASHBOARD_DIR / "index.html"
+SOURCE_CSS = DASHBOARD_DIR / "styles.css"
+SOURCE_VOCAB_JSON = DASHBOARD_DIR / "vocabulary.json"
 
 def clean_text(text):
     if not text: return ""
@@ -80,9 +84,9 @@ def sync_data():
             else:
                 all_data[k] = v
                 
-        # For the new chapter, sort words alphabetically by English word
+        # IELTS 强化词库按 Excel 倒序展示：表格最下面的词显示在最上面
         if "雅思强化题目生词" in all_data:
-            all_data["雅思强化题目生词"].sort(key=lambda x: x['word'].lower() if x['word'] else '')
+            all_data["雅思强化题目生词"].reverse()
 
         vocab_json = json.dumps(all_data, ensure_ascii=False)
         sync_time = time.strftime('%Y-%m-%d %H:%M:%S')
@@ -103,10 +107,10 @@ def sync_data():
         os.makedirs(DOCS_DIR, exist_ok=True)
         with open(DOCS_JS, 'w', encoding='utf-8') as out:
             out.write(new_content)
-        shutil.copy2(SOURCE_INDEX, os.path.join(DOCS_DIR, 'index.html'))
-        shutil.copy2(SOURCE_CSS, os.path.join(DOCS_DIR, 'styles.css'))
+        shutil.copy2(SOURCE_INDEX, DOCS_DIR / 'index.html')
+        shutil.copy2(SOURCE_CSS, DOCS_DIR / 'styles.css')
         if os.path.exists(SOURCE_VOCAB_JSON):
-            shutil.copy2(SOURCE_VOCAB_JSON, os.path.join(DOCS_DIR, 'vocabulary.json'))
+            shutil.copy2(SOURCE_VOCAB_JSON, DOCS_DIR / 'vocabulary.json')
 
         total_words = sum(len(v) for v in all_data.values())
         print(f"[{time.strftime('%H:%M:%S')}] 同步成功！更新了 {total_words} 个词条。")

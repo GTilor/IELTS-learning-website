@@ -4,80 +4,149 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>IELTS 词汇实验室 | GTilor</title>
-    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;600;700&family=Plus+Jakarta+Sans:wght@400;600;700&family=JetBrains+Mono:wght@400;700&display=swap" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css2?family=JetBrains+Mono:wght@400;700&family=Noto+Sans+SC:wght@400;500;700&family=Plus+Jakarta+Sans:wght@400;600;700;800&family=Sora:wght@600;700;800&display=swap" rel="stylesheet">
     <script src="https://unpkg.com/lucide@latest"></script>
     <link rel="stylesheet" href="styles.css">
 </head>
 <body>
+    <div class="page-shell"></div>
     <div class="container">
-        <header class="glass-panel main-header">
-            <div class="header-content">
-                <div class="logo-area">
-                    <h1><i data-lucide="languages" class="logo-icon"></i> <span>IELTS</span> Lexicon</h1>
-                    <p class="subtitle">Vocabulary Activation OS • Target 7.5+</p>
+        <header class="top-shell">
+            <section class="brand-card glass-panel">
+                <div class="brand-copy">
+                    <p class="eyebrow">GTilor 英语学习系统</p>
+                    <h1><i data-lucide="languages" class="logo-icon"></i> IELTS 词汇实验室</h1>
+                    <p class="subtitle">搜索优先，听词即刻开始，边听边跟读。</p>
                 </div>
-                <div class="sync-status" id="sync-status-container">
-                    <span class="status-dot"></span>
-                    <span id="last-sync-time">Checking sync status...</span>
+                <div class="brand-focus">
+                    <span class="focus-label">目标分数</span>
+                    <span class="focus-value">Band 7.5+</span>
                 </div>
-            </div>
+            </section>
+
+            <section class="control-card glass-panel">
+                <div class="search-wrapper hero-search">
+                    <i data-lucide="search" class="search-icon"></i>
+                    <input type="text" class="search-bar" placeholder="搜索单词、短语、中文释义..." id="search-input">
+                </div>
+                <div class="status-strip">
+                    <div class="system-pill sync-status" id="sync-status-container">
+                        <span class="status-dot"></span>
+                        <span id="last-sync-time">Checking sync status...</span>
+                    </div>
+                    <div class="system-pill voice-pill">
+                        <i data-lucide="volume-2"></i>
+                        <span id="tts-status" class="tts-status">美式发音初始化中...</span>
+                    </div>
+                </div>
+            </section>
         </header>
 
-        <section class="stats-grid">
-            <div class="stat-card glass-panel">
-                <i data-lucide="book-open"></i>
-                <div class="stat-value" id="stat-total-words">0</div>
-                <div class="stat-label">TOTAL LIST</div>
-            </div>
-            <div class="stat-card glass-panel">
-                <i data-lucide="layers"></i>
-                <div class="stat-value" id="stat-chapters">0</div>
-                <div class="stat-label">CHAPTERS</div>
-            </div>
-            <div class="stat-card glass-panel highlight">
-                <i data-lucide="target"></i>
-                <div class="stat-value">Band 7.5+</div>
-                <div class="stat-label">OBJECTIVE</div>
-            </div>
+        <section class="overview-grid">
+            <article class="overview-card glass-panel">
+                <div class="overview-icon">
+                    <i data-lucide="book-open"></i>
+                </div>
+                <div class="overview-copy">
+                    <span class="overview-label">总词条</span>
+                    <strong class="overview-value" id="stat-total-words">0</strong>
+                </div>
+            </article>
+            <article class="overview-card glass-panel">
+                <div class="overview-icon">
+                    <i data-lucide="layers-3"></i>
+                </div>
+                <div class="overview-copy">
+                    <span class="overview-label">章节数</span>
+                    <strong class="overview-value" id="stat-chapters">0</strong>
+                </div>
+            </article>
+            <article class="overview-card glass-panel">
+                <div class="overview-icon accent-warm">
+                    <i data-lucide="target"></i>
+                </div>
+                <div class="overview-copy">
+                    <span class="overview-label">当前结果</span>
+                    <strong class="overview-value" id="stat-visible-words">0</strong>
+                </div>
+            </article>
+            <article class="overview-card glass-panel focus-card">
+                <div class="overview-copy">
+                    <span class="overview-label">学习流程</span>
+                    <strong class="overview-value">搜索 · 听读 · 跟读</strong>
+                    <p class="overview-note">词卡默认按首字母排序，双击即可朗读。</p>
+                </div>
+            </article>
         </section>
 
-        <section class="glass-panel active-recall-section">
-            <div class="section-header">
-                <h2><i data-lucide="graduation-cap"></i> Speaking & Writing Challenge</h2>
-            </div>
-            <p id="speaking-prompt" class="prompt-text">
-                "Initiate vocabulary activation by generating a customized practice prompt..."
-            </p>
-            <button class="btn-primary" onclick="generatePrompt()"><i data-lucide="sparkles"></i> Generate New Challenge</button>
-        </section>
-
-        <div class="main-layout">
-            <aside class="glass-panel">
-                <h3 class="aside-title"><i data-lucide="list"></i> CHAPTERS</h3>
+        <div class="workspace-layout">
+            <aside class="sidebar-panel glass-panel">
+                <div class="panel-header">
+                    <p class="eyebrow">学习导航</p>
+                    <h2>学习导航</h2>
+                </div>
+                <p class="panel-note">按章节切换词库。默认展示全部词汇，搜索会在当前视图中即时过滤。</p>
                 <ul class="chapter-list" id="chapter-list">
                     <!-- Chapters will be loaded here -->
                 </ul>
             </aside>
 
             <main class="content-area">
-                <div class="sticky-header">
-                    <div class="search-wrapper">
-                        <i data-lucide="search" class="search-icon"></i>
-                        <input type="text" class="search-bar" placeholder="Search keywords, notes, or symbols..." id="search-input">
+                <section class="section-toolbar glass-panel">
+                    <div>
+                        <p class="eyebrow">当前词库</p>
+                        <h2 id="current-chapter-title" class="section-title">全部词汇</h2>
+                        <p id="section-meta" class="section-meta">已按首字母排序，准备开始听读。</p>
                     </div>
-                    <p id="tts-status" class="tts-status">美式发音初始化中...</p>
-                </div>
-                
-                <h2 id="current-chapter-title" class="chapter-display-title">ALL VOCABULARY</h2>
-                <div class="word-grid" id="word-grid">
+                    <div class="section-pills">
+                        <span class="mini-pill mini-pill-blue">首字母排序</span>
+                        <span class="mini-pill" id="result-count-pill">0 条</span>
+                    </div>
+                </section>
+
+                <section class="word-grid" id="word-grid">
                     <!-- Word cards will be loaded here -->
-                </div>
+                </section>
             </main>
+
+            <aside class="detail-panel glass-panel">
+                <div class="panel-header">
+                    <p class="eyebrow">跟读工作台</p>
+                    <h2>跟读工作台</h2>
+                </div>
+
+                <section class="detail-card">
+                    <p class="eyebrow">当前单词</p>
+                    <h3 id="detail-word" class="detail-word">点击左侧词卡开始学习</h3>
+                    <p id="detail-definition" class="detail-definition">这里会显示当前单词、短语或章节内词条的中文释义。</p>
+                    <div class="detail-tags">
+                        <span class="detail-tag" id="detail-chapter">等待选择</span>
+                        <span class="detail-tag detail-tag-ghost" id="detail-order">首字母排序</span>
+                    </div>
+                    <div class="detail-actions">
+                        <button class="btn-primary" id="detail-listen" type="button">美式朗读</button>
+                        <button class="btn-secondary" id="detail-next" type="button">下一个词</button>
+                    </div>
+                    <p id="detail-hint" class="detail-hint">单击词卡查看详情，双击词卡或点击按钮朗读。</p>
+                </section>
+
+                <section class="challenge-card">
+                    <div class="challenge-head">
+                        <div>
+                            <p class="eyebrow">练习模式</p>
+                            <h3>口语与写作挑战</h3>
+                        </div>
+                        <span class="challenge-tag">实时题目</span>
+                    </div>
+                    <p id="speaking-prompt" class="prompt-text">点击下方按钮，基于当前词库生成一条跟读或回忆练习题。</p>
+                    <button class="btn-primary challenge-button" onclick="generatePrompt()" type="button">
+                        <i data-lucide="sparkles"></i>
+                        <span>生成新挑战</span>
+                    </button>
+                </section>
+            </aside>
         </div>
     </div>
-
-    <!-- Background Decoration -->
-    <div style="position: fixed; top: 0; left: 0; width: 100%; height: 100%; z-index: -1; pointer-events: none; opacity: 0.15; background-image: url('https://www.transparenttextures.com/patterns/cubes.png');"></div>
 
     <script src="script.js"></script>
     <script>
